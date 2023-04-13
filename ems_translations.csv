@@ -1,0 +1,783 @@
+en;nl;fr;de;sv;pl
+State;Provincie;Région;Bundesland;Land;Kraj
+Archive quotations after publishing;Offertes archiveren na publicatie;Archiver les devis après leur publication;Angebot nach Veröffentlichung archivieren;Arkivera offerter efter offentliggörandet.;Archiwizuj ofertę po opublikowaniu
+Quotations that are created with a previous published version will get the status 'Archived' and can no longer be edited.;Offertes die zijn gemaakt met een eerder gepubliceerde versie krijgen de status 'Gearchiveerd' en kunnen niet meer worden bewerkt.;Les offres créées à partir d'une version publiée précédente obtiennent le statut ""Archivé"" et ne peuvent plus être modifiées.;Angebote die erstellt wurden mit einer ehemals veröffentlichten Version, erhalten den Status „Archiviert“ und können nicht mehr bearbeitet werden.;Tidigare offentliggjorda offerter kommer att få statusen ""Arkiverad"" och kan inte längre redigeras.;Oferty utworzone za pomocą poprzedniej wersji otrzymają status „Zarchiwizowane” i nie będzie można ich już edytować.
+Note: copying and revising archived quotations may cause broken configurations. Please use the configuration code if you want to use the same configuration that is placed in an archived quotation.;Opmerking: het kopiëren en herzien van gearchiveerde offertes kan leiden tot defecte configuraties. Gebruik de configuratiecode als u dezelfde configuratie wilt gebruiken die in een gearchiveerde offerte is geplaatst.;Remarque : la copie et la révision des devis archivées peuvent entraîner la rupture des configurations. Veuillez utiliser le code de configuration si vous souhaitez utiliser la même configuration que celle placée dans un devis archivé.;Hinweis: Das Kopieren und Überarbeiten von archivierten Angeboten kann zu Fehlkonfigurationen führen. Verwenden Sie den Konfigurationscode, wenn Sie dieselbe Konfiguration verwenden möchten, die im Angebotsarchiv eingeordnet wurde.Drücken Sie zum Aktivieren der Screenreader-Unterstützung Ctrl+Alt+Z. Drücken Sie Ctrl+Schrägstrich, um weitere Informationen zu Tastenkombinationen zu erhalten.;Obs: kopiering och revidering av arkiverade offerter kan leda till att konfigurationen inte längre fungerar. Använd konfigurationskoden om du vill behålla samma konfiguration som finns i en arkiverad offert.;Uwaga: kopiowanie i poprawianie zarchiwizowanych ofert może spowodować uszkodzenie konfiguracji. Użyj kodu konfiguracji, jeśli chcesz użyć tej samej konfiguracji, która jest umieszczona w zarchiwizowanej ofercie.
+Default status for archiving quotations;Standaardstatus voor het archiveren van offertes;Statut par défaut pour les devis archivés;Standardstatus für die Archivierung von Angeboten;Standardstatus vid arkivering av offerter.;Domyślny status archiwizacji ofert
+Default status for revised quotations;Standaardstatus voor herziene offertes;Statut par défaut pour les devis révisés;Standardstatus für überarbeitete Angebote;Standardstatus vid revidering av offerter.;Stan domyślny dla poprawionych ofert
+Default status for expired quotations;Standaardstatus voor verlopen offertes;Statut par défaut des offres expirées;Standardstatus für abgelaufene Angebote;Standardstatus på förfallna offerter.;Stan domyślny dla wygasłych ofert
+Default CRM account;Standaard CRM-account;Compte CRM par défaut;Standard CRM-Konto;Standard CRM-konto.;Domyślne konto CRM
+Select a default CRM that is automatically set in the quotation as the seller field.;Selecteer een standaard-CRM die automatisch in de offerte wordt ingesteld als verkoper.;Sélectionnez un CRM par défaut qui est automatiquement défini dans les devis comme champ du vendeur.;Wählen Sie ein Standard-CRM, das im Angebot automatisch als Verkäufer eingeordnet wird.;Välj ett standard CRM som automatiskt ställs in som säljare i offerten.;Wybierz domyślny CRM, który jest automatycznie ustawiany w ofercie jako pole sprzedawcy.
+Hide total quotation discount field;Verberg totale offertekorting veld;Masquer le champ de remise totale de l'devis;Blende Schirmfeld des Gesamtangebotsrabatt aus;Dölj totalrabattfältet i offerten.;Ukryj pole rabatu dla oferty
+Enable this if you want to hide the total discount field on the quotations screen.;Schakel dit in als u het totale korting veld op het offertescherm wilt verbergen.;Activez cette option si vous souhaitez masquer le champ de la remise totale sur les pages des devis;Aktivieren Sie dies, wenn Sie das Gesamtrabattfeld auf dem Angebotsbildschirm ausblenden möchten;Slå på den här fliken om du vill dölja totalrabattfältet i offerten.;Włącz tę opcję, jeśli chcesz ukryć pole całkowitego rabatu na ekranie oferty.
+Hide quotation margin columns;Verberg kolommen voor offertemarge;Masquer les colonnes de marge des devis;Kolumnen des Angebotspielraums ausblenden;Dölj marginalkolumn i offerten.;Ukryj kolumny marży oferty
+Enable this if you want to hide the margin columns in the Quotation lines table. (By default margin columns are hidden behind the chevron button in the far right of the table.);Schakel dit in als u de margekolommen in de offerteregels tabel wilt verbergen. (Standaard zijn margekolommen verborgen achter de chevronknop helemaal rechts in de tabel.);Activez cette option si vous souhaitez masquer les colonnes de marge dans le tableau des lignes de devis. (Par défaut, les colonnes de marge sont masquées derrière le bouton en forme de chevron à l'extrême droite du tableau).;Aktivieren Sie dies, wenn Sie den Kolumnenspieraum in der Angebotszeilentabelle ausblenden möchten. (Standardmäßig werden die Randspalten hinter der Chevron-Schaltfläche ganz rechts in der Tabelle ausgeblendet.);Slå på knappen om du vill dölja marginalkolumnerna i tabellen Offertlinjer. (Som standard döljs marginalkolumnerna bakom chevron knappen längst till höger i tabellen).;Włącz tę opcję, jeśli chcesz ukryć kolumny marży w tabeli Oferty. (Domyślnie kolumny marży są ukryte za przyciskiem w kształcie jodełki po prawej stronie tabeli).
+Enable this if you want to be able to change the amount of each quotation group.;Schakel dit in als u het aantal van elke offertegroep wilt kunnen wijzigen.;Activez cette option si vous souhaitez pouvoir modifier le montant de chaque groupe de devis.;Aktivieren Sie dies, wenn Sie die Menge jeder Angebotsgruppe ändern wollen.;Slå på knappen om du vill ändra beloppet för varje offertgrupp.;Włącz tę opcję, jeśli chcesz mieć możliwość zmiany kwoty każdej grupy ofert.
+Quotation group multiplier;Offertegroep vermenigvuldiger;Multiplicateur de groupe de cotation;Angebotsgruppenmultiplikator;Multiplikatoreffekt för offertgruppen;Mnożnik grupy Oferty
+Edit presets;Tabelvoorinstellingen aanpassen;Modifier les préréglages;Tabellenvoreinstellungen anpassen;Anpassa tabellförinställningar.;Edytuj ustawienia wstępne
+Choose at which level table presets are allowed to be configured;Kies op welk niveau tabelvoorinstellingen mogen worden geconfigureerd;Choisissez à quel niveau les préréglages du tableau sont autorisés à être configurés;Wählen Sie das Niveau auf dem die Tabelvoreinstellungen konfiguriert werden sollen.;Välj på vilken nivå förinställningar för tabeller får konfigureras.;Wybierz, na jakim poziomie ustawienia wstępne tabeli mogą być konfigurowane
+Original name:;Originele naam:;Nom original :;Originalname:;Ursprungligt namn:;Oryginalna nazwa:
+Edit table preferences;Tabelvoorkeuren bewerken;Modifier les préférences de la table;Bevorzugte Tabellen wählen;Redigera tabellinställningar;Edytuj preferencje tabeli
+Add column;Kolom toevoegen;Ajouter une colonne;Kolumne hinzufügen;Lägg till kolumn;Dodaj kolumnę
+Use this to permanently remove this preference preset.;Gebruik dit om deze voorkeursinstelling permanent te verwijderen.;Utilisez cette option pour supprimer définitivement cette préférence prédéfinie.;Verwenden Sie dies, um diese bevorzugte Einstellung dauerhaft zu löschen.;Använd den här funktionen för att permanent ta bort den här inställningen.;Użyj tego, aby trwale usunąć to ustawienie wstępne preferencji.
+Delete preference;Voorkeur verwijderen;Supprimer la préférence;Bevorzugung löschen;Ta bort inställningar;Usuń preferencję
+Add filter;Filter toevoegen;Ajouter un filtre;Filter hinzufügen;Lägg till filter;Dodaj filtr
+false;onwaar;FAUX;Falsch;FELAKTIGT;Błąd
+true;waar;VRAI;Richtig;SANT;Prawda
+VAT number;BTW nummer;Numéro de TVA;Umsatzsteuer Identifikationsnummer (USt-ID);Momsnummer;Numer VAT
+Configuration model is locked;Configuratie model is op slot;Le modèle de configuration est verrouillé;Konfigurationsmodell ist gesperrt;Konfigurationsmodellen är låst;Konfiguracja modelu jest zablokowana
+The current configuration model is locked and the desired action cannot be executed. Please contact your system administrator if you want to execute the desired action.;Het huidige configuratie model is op slot en de gewenste actie kan niet worden uitgevoerd. Contacteer a.u.b. uw systeem administrator als u de gewenste actie alsnog wil uitvoeren.;Le modèle de configuration actuel est verrouillé et l'action souhaitée ne peut pas être exécutée. Veuillez contacter votre administrateur système si vous souhaitez exécuter l'action souhaitée.;Das aktuelle Konfigurationsmodell ist gesperrt und die gewünschte Aktion konnte nicht durchgeführt werden. Bitte wenden Sie sich an Ihren Systemadministrator, wenn Sie die gewünschte Aktion dennoch durchführen möchten.;Den aktuella konfigurationsmodellen är låst och den önskade åtgärden kan inte utföras. Kontakta din systemadministratör om du vill utföra den önskade åtgärden.;Bieżący model konfiguracji jest zablokowany i nie można wykonać żądanej akcji. Skontaktuj się z administratorem systemu, jeśli chcesz wykonać żądaną akcję.
+There already exists a step image in this configuration model which is set as the configuration image. Would you like to change it to this step?;Er bestaat al een stap afbeelding die is ingesteld als configuratie afbeelding in dit configuratie model. Weet je zeker dat je het wil aanpassen naar deze stap?;Il existe déjà une image d'étape dans ce modèle de configuration qui est définie comme image de configuration. Voulez-vous la changer pour cette étape ?;Es gibt bereits ein Step-Image, das in diesem Konfigurationsmodell als Konfigurations-Image eingestellt ist. Sind Sie sicher, dass Sie diesen Schritt ändern möchten?;Det finns redan en stegbild i den här konfigurationsmodellen som är inställd som konfigurationsbild. Vill du ändra den till det här steget?;W tym modelu konfiguracji istnieje już obraz kroku, który jest ustawiony jako obraz konfiguracji. Czy chcesz zmienić go na ten krok?
+Change configuration image?;Verander configuratie afbeelding;Modifier l'image de configuration ?;Verändere Konfigurations-Image;Ändra konfigurationsbild?;Zmienić zdjęcie konfiguracji?
+Use step image as configuration image on document;Stap afbeelding gebruiken als configuratie afbeelding in het document;Utiliser l'image d'étape comme image de configuration sur le document;Verwende Step-Image als Konfigurations-Image in diesem Dokument;Använd stegbild som konfigurationsbild i dokumentet;Użyj obrazu kroku jako obrazu konfiguracji w dokumencie
+Confirm;Bevestigen;Confirmer;Bestätigen;Bekräfta;
+Are you sure you want to delete this unit of measurement? It currently is assigned to;Weet u zeker dat u deze meet eenheid wil verwijderen? Deze meet eenheid is op dit moment gekoppeld aan;Êtes-vous sûr de vouloir supprimer cette unité de mesure ? Elle est actuellement attribuée à;Sind Sie sich sicher dass Sie diese Messeinheit entfernen wollen? Diese Messeinheit ist im moment gelinkt an;Är du säker på att du vill radera mätningsenheten? Den är för närvarande tilldelad till;Czy na pewno chcesz usunąć tę jednostkę miary? Obecnie jest przypisany do
+Showroom overview;Showroom overzicht;Aperçu de la ""Showroom"";Showroom-Übersicht;Översikt över showroom;Przegląd showroom
+View image;Afbeelding bekijken;Voir l'image;Bild ansehen;Visa bild;Zobacz zdjęcie
+Show all;Alles tonen;Tout afficher;Alles anzeigen;Visa alla;Pokaż wszystko
+Everything mentioned above;Alles wat hierboven is benoemd;Tout ce qui est mentionné ci-dessus ;Alles was oben erwähnt wurde;Allt som nämns ovan;Wszystko wymienione powyżej
+ will be ; zal worden ;sera ;Wird; kommer att vara ;będzie
+removed;verwijderd;retiré;entfernt / gelöscht;bort;usunięte
+ from the configuration. (This cannot be undone.); van de configuratie. (Dit kan niet worden teruggedraaid); de la configuration. (Ceci ne peut pas être annulé).;von der Konfiguration. (Dies kann nicht rückgängig gemacht werden); från konfigurationen. (Detta kan inte göras ogjort.);z konfiguracji. (Tego nie można cofnąć).
+Do you want to continue?;Wilt U verdergaan?;Voulez-vous continuer ?;Wollen Sie fortfahren?;Vill du fortsätta?;Czy chcesz kontynuować?
+Are you sure you want to delete this configuration?;Weet u zeker dat u deze configuratie wilt verwijderen?;Êtes-vous sûr de vouloir supprimer cette configuration ?;Sind Sie sich sicher dass Sie diese Konfiguration löschen möchten?;Är du säker på att du vill ta bort den här konfigurationen?;Jesteś pewny/a, że chcesz usunąć tą konfigurację?
+The rules for this configuration have changed.;De regels(constraints) van deze configuratie zijn veranderd.;Les règles pour cette configuration ont changé.;Die Begrenzung dieser Konfiguration wurden geändert.;Reglerna för den här konfigurationen har ändrats.;Zasady tej konfiguracji uległy zmianie.
+Configuration is no longer possible;De configuratie is niet meer mogelijk;La configuration n'est plus possible;Diese Konfiguration ist nicht mehr ausführbar.;Konfigurationen är inte längre möjlig;Konfiguracja nie jest dłużej możliwa
+To open this configuration, the following has to be removed:;Voor het openen van de configuratie, moet het volgende worden verwijderd:;Pour ouvrir cette configuration, les éléments suivants doivent être supprimés :;Um die Konfiguration zu öffnen, müssen Sie folgendes entfernen:;För att öppna den här konfigurationen måste följande tas bort:;Aby otworzyć tę konfigurację, należy usunąć:
+The configuration model has changed. To open this configuration, the following value(s) will change:;Het configuratie model is veranderd. Voor het openen van het model, wordt het volgende veranderd:;Le modèle de configuration a changé. Pour ouvrir cette configuration, les valeurs suivantes doivent être modifiées :;Das Konfigurationsmodell wurde verändert. Um die Konfiguration öffnen zu können, wird folgendes entfernt:;Konfigurationsmodellen har ändrats. För att öppna den här konfigurationen måste följande värde(n) ändras:;Zmienił się model konfiguracji. Aby otworzyć tę konfigurację, zmienią się następujące wartości:
+Contact your admin for more information.;Neem contact op met de Admin voor meer informatie.;Contactez votre administrateur pour plus d'informations.;Wenden Sie sich für mehr Informationen an Ihren Systemadministrator;Kontakta din administratör för mer information.;Aby uzyskać więcej informacji, skontaktuj się z administratorem.
+This change can be caused by an update to the configuration model or by a change in the parent configuration.;De verandering kan veroorzaakt zijn door een update in het configuratie model of door een verandering van de bovenliggende configuratie.;Ce changement peut être causé par une mise à jour du modèle de configuration ou par une modification de la configuration parente.;Die Änderung kann durch eine Aktualisierung im Konfigurationsmodell oder durch eine Änderung in der übergeordneten Konfiguration verursacht sein.;Den här ändringen kan orsakas av en uppdatering av konfigurationsmodellen eller av en ändring i den överordnade konfigurationen.;Ta zmiana może być spowodowana aktualizacją modelu konfiguracji lub zmianą konfiguracji nadrzędnej.
+Configuration not possible;Configuratie niet mogelijk;Configuration pas possible;Konfiguration ist nicht möglich;Konfigurationen är inte möjlig;Konfigzracja nie jest możliwa
+This product cannot be configured.;Dit product kan niet worden geconfigureerd.;Ce produit ne peut pas être configuré.;Diese Produkt kann nicht konfiguriert werden;Den här produkten kan inte konfigureras.;Ten produkt nie może zostać skonfigurowany
+Undo your last action and try a different combination.;Ga terug naar je vorige actie en probeer een andere combinatie.;Annulez votre dernière action et essayez une autre combinaison.;Kehren Sie zurück zur zuletzt ausgeführten Handlung und versuchen Sie es mit einer anderen Kombination;Ångra din senaste åtgärd och försök med en annan kombination.;Cofnij ostatnią czynność i wypróbuj inną kombinację.
+Apply selected VAT to all lines in;Pas geselecteerde btw toe op alle regels in;Appliquer la TVA sélectionnée à toutes les lignes dans;Verwenden Sie die ausgewählte Mehrwertsteuer für alle Zeilen;Tillämpa vald moms på alla rader i;Zastosuj wybrany podatek VAT do wszystkich wierszy w
+Apply VAT to;Btw toepassen op;Appliquer la TVA à;MwSt. verwenden für;Tillämpa moms på;Zastosuj VAT do
+Quotation properties;Offerte-eigenschappen;Propriétés des devis;Angebotseigenschaften;Egenskaper för offert;Właściwości Oferty
+Copy margin settings;Kopieer marge-instellingen;Copier les paramètres de marge;Spielraum-Einstellungen kopieren;Kopiera marginalinställningar;Kopiuj ustawienia marginesów
+Are you sure you want to copy this quotation?;Weet u zeker dat u deze offerte wilt kopiëren?;Êtes-vous sûr de vouloir copier cette devis ?;Sind Sie sich sicher dass Sie dieses Angebot kopieren möchten?;Är du säker på att du vill kopiera den här offerten?;Czy na pewno chcesz skopiować tą Ofertę?
+Copy quotation;Kopieer offerte;Copie du devis;Angebot kopieren;Kopiera offert;Kopiuj ofertę
+Copy margin;Kopieer marge;Copier la marge;Spielraum kopieren;Kopiera marginal;Kopiuj marginesy
+Behavior;Gedrag;Comportement;Verhalten;Uppförande;Zachowanie
+Generating previews, please wait...;Voorvertoningen genereren, even geduld ...;Génération des aperçus, veuillez patienter...;Vorschau generieren, bitte warten Sie...;Genererar förhandsgranskningar, vänligen vänta...;Generowanie podglądu, proszę czekać...
+Accept changes;Accepteer veranderingen;Accepter les changements;Akzeptiere Veränderungen;Acceptera ändringar;Akceptuj zmiany
+to;naar;à;nach / bis;till;do
+will be set from;zal worden ingesteld vanaf;sera définie à partir de;wird eingestellt von;kommer att sättas från;zostanie ustawione od
+The value of;De waarde van;La valeur de;Der Wert von;Det värdet av;Wartość
+Conflicting values;Tegenstrijdige waarden;Valeurs conflictuelles;inkompatibele Werte;Motstridiga värden;Sprzeczne wartości
+Requires the following to be removed:;Vereist het volgende om te worden verwijderd:;Les éléments suivants doivent être supprimés :;Folgendes muss entfernt werden:;Kräver att följande tas bort:;Wymaga usunięcia:
+The following will be added;Het volgende wordt toegevoegd;Les éléments suivants seront ajoutés;Folgendes wird hinzugefügt:;Följande ska läggas till;Zostaną dodane następujące elementy
+Requires one of the following options, please make a selection:;Vereist een van de volgende opties, maak een keuze:;Requiert l'une des options suivantes, veuillez faire une sélection :;Eine der folgenden Optionen ist erforderlich, treffen Sie eine Auswahl:;Kräver ett av följande alternativ, gör ett val:;Wymaga jednej z następujących opcji, dokonaj wyboru:
+The choice of the following:;De keuze uit het volgende:;Le choix de ce qui suit :;Wählen Sie aus dem Folgendem:;Välj ett av följande alternativ:;Wybór następujących opcji
+Adjustment of your selection required;Aanpassing van uw selectie vereist;Ajustement de votre sélection requis;Anpassung Ihrer Auswahl ist erforderlich;Anpassning av valet krävs;Wymagane dostosowanie wyboru
+Default contact;Standaard contactpersoon;Contact par défaut;Standardkontaktperson;Standardkontakt;Kontakt domyślny
+Create CRM account;Creëer een CRM-account;Créer un compte CRM;Erstellen Sie einen CRM-Konto;Skapa ett CRM-konto;Utwórz konto CRM
+Are you sure you want to delete this CRM account?;Weet u zeker dat u dit CRM-account wilt verwijderen?;Etes-vous sûr de vouloir supprimer ce compte CRM ?;Sind Sie sich sicher dass Sie dieses CRM-Konto löschen wollen?;Är du säker på att du vill ta bort det här CRM-kontot?;Czy na pewno chcesz usunąć to konto CRM?
+Delete CMR account;CMR-account verwijderen;Supprimer le compte CMR;CRM-Konto löschen;Radera CMR-konto;Usuń konto CRM
+Relationship type;Soort relatie;Type de relation;Art der Beziehung;Relationstyp;Typ relacji
+Address line;Adresregel;Ligne d'adresse;Adresszeile;Adressrad;Linia adresowa
+New CRM account;Nieuw CRM-account;Nouveau compte CRM;Neues CRM-Konto;Nytt CRM-konto;Nowe konto CRM
+Delivery address;Bezorgadres;Adresse de livraison;Lieferadresse;Leveransadress;Adres dostawy
+Select CRM account;Selecteer CRM-account;Sélectionner le compte CRM;wählen / selektieren Sie einen CRM-Konto;Välj ett CRM-konto;Wybierz konto CRM
+Primary phone;Vaste telefoon;Téléphone principal;Haupttelefon;Primär telefon;Główny telefon
+Full name;Voor- en achternaam;Nom complet;Vor- und Nachname;Fullständigt namn;Imię i nazwisko
+Select contact;Contactpersoon selecteren;Sélectionner le contact;Kontaktperson selektieren / wählen;Välj kontakt;Wybierz kontakt
+Save;Opslaan;Enregistrer;Speichern;Spara;Zapisz
+E-mail;E-mail;E-mail;E-Mail;E-post;E-mail
+Phone number;Telefoonnummer;Numéro de téléphone;Telefonnummer;Telefonnummer;Numer telefonu
+Last name;Achternaam;Nom;Nachname;Efternamn;Nazwisko
+Surname prefix;Achternaam voorvoegsel;Préfixe du nom;Präfix Ihres Nachnamen;Prefix för efternamn;Prefiks nazwiska
+First name;Voornaam;Prénom du client;Vorname;Förnamn;Imię
+Salutation;Begroeting;Salutation;Begrüssung;Hälsning;Zwrot grzecznościowy
+Edit contact;Bewerk contact;Modifier le contact;Kontakt bearbeiten;Redigera kontakt;Edytuj kontakt
+Important changes;Belangrijke wijzigingen;Changements importants;wichtige Veränderungen;Viktiga ändringar;Ważne zmiany
+Contact your admin;Neem contact op met je beheerder;Contactez votre administrateur;Kontaktieren Sie Ihren Administrator;Kontakta din administratör;Skontaktuj się z administratorem
+New email;Nieuwe e-mail;Nouveau courriel;Neue E-Mail Adresse;Ny e-postadress;Nowy email
+Enter current password;Vul huidig wachtwoord in;Entrez le mot de passe actuel;Geben Sie Ihr aktuelles Passwort ein;Ange nuvarande lösenord;Wprowadź aktualne hasło
+Change email;Email wijzigen;Modifier l'email;E-Mail ändern;Ändra e-post;Zmień adres email
+Close;Sluiten;Fermer;Schliessen;Stäng;Zamknij
+Select;Selecteren;Sélectionnez;selektieren / wählen;Välj;Wybierz
+Change environment;Omgeving veranderen;Changer d'environnement;Umgebung ändern;Byt till en annan omgivning;Zmień środowisko
+Home;Home;Accueil;Home;Startsida;Strona startowa
+Cost price;Kostprijs;Prix de revient;Sebstkostenpreis;Kostnadspris;Koszt własny
+Master Data;Master Data;Données de base;Hauptdaten;Huvuddata;Dane podstawowe
+Features;Features;Caractéristiques;Funktionen;Funktioner;Wyposażenie
+Feature Properties;Feature Properties;Propriétés des fonctionnalités;Funktionseigenschaften;Egenskaper för funktioner;Opis wyposażenia
+Configuration Models;Configuratiemodellen;Modèles de configuration;Konfigurationsmodelle;Konfigurationsmodeller;Modele konfiguracji
+Configuration model;Configuratiemodel;Modèle de configuration;Konfigurationsmodel;Konfigurationsmodell;Model konfiguracji
+Categories;Categorieën;Catégories;Kategorien;Kategorier;Kategorie
+Category;Categorie;Catégorie;Kategorie ;Kategori;Kategoria
+General;Algemeen;Général;Allgemeines;Allmänt;Ogólne
+Pricing;Prijzen;Tarification;Preise;Prissättning;Ceny
+Theme;Thema;Thème;Thema;Tema;Temat
+SEO;SEO;Référencement;SEO;SEO;SEO
+Default purchase discount percentage;Standaard inkoopkorting percentage;Pourcentage de remise sur achat par défaut;Prozentsatz des Standard-Einkaufrabatts;Rabattprocent för standardköp;Domyślny procent rabatu przy zakupie
+Used to calculate cost price.;Gebruikt om kostprijs te berekenen;Utilisé pour calculer le prix de revient.;Verwendet zur Berechnung des Selbstkostenpreises;Används för att beräkna kostnadspriset.;Służy do obliczenia kosztów własnych
+Customer reference;Klantreferentie;Référence client;Kundenreferenz;Kundreferens;Preferencja klienta
+Margin percentage;Marge percentage;Pourcentage de marge;Prozentspielraum;Marginalprocent;Procent marży
+Default VAT;Standaard BTW-tarief;TVA par défaut;Mehrwertsteuer-Standardsatz;Standardmoms;Domyślny podatek VAT
+Select a VAT that is added to every price by default.;Selecteer een standaard BTW-tarief dat bij alle prijzen gebruikt wordt.;Sélectionnez une TVA qui sera ajoutée par défaut à chaque prix.;Wählen Sie einen Mehrwertsteuer-Standardsatz, der für alle Preise verwendet wird.;Välj en moms som ska läggas till varje pris som standard.;Wybierz podatek VAT, który jest domyślnie dodawany do każdej ceny.
+Select VAT;Selecteer BTW-tarief;Sélectionner la TVA;selektiere / wähle Mehrwertsteuer-Standardsatz;Välj moms;Wybierz VAT
+None;Geen;Aucune;Nichts;Inget;Nic
+Wholesale discount;Staffelkorting;Remise de gros;Gruppenrabatt;Grosshandel rabatt;Rabat hurtowy
+Give sub-organizations a discount based on the order value.;Geef suborganisaties een korting op basis van de orderwaarde.;Accordez aux sous-organisations une remise basée sur la valeur de la commande.;Geben Sie Unterorganisationen einen Rabatt auf der Basis des Auftragswertes.;Ge en rabatt till suborganisationer baserat på beställningsvärdet.;Daj organizacjom podrzędnym rabat na podstawie wartości zamówienia.
+From amount;Van bedrag;A partir du montant;Von dem Betrag;Från belopp/antal;Od kwoty
+Default percentage to increase all prices.;Standaardpercentage om alle prijzen te verhogen.;Pourcentage par défaut pour augmenter tous les prix.;Standardmäßiger Prozentsatz zum erhöhen aller Preise;En standardprocent för att höja alla priser.;Domyślna wartość procentowa w celu zwiększenia wszystkich cen.
+The order is as follows: (1) Feature margin - (2) Configuration model margin - (3) Default margin percentage.;De volgorde is als volgt: (1) Featuremarge - (2) Configuratiemodelmarge - (3) Standaardmargepercentage.;L'ordre est le suivant : (1) Marge de la caractéristique - (2) Marge du modèle de configuration - (3) Pourcentage de la marge par défaut.;Die Reihenfolge ist wie folgt: (1) Funktionsspielraum - (2) Konfigurationsmodellspielraum - (3) standardmäßige Spielraumprozentsatz;Följande ordning gäller: (1) Funktionsmarginal - (2) Konfigurationsmodellmarginal - (3) Standardmarginalprocent.;Kolejność jest następująca: (1) Cechy marży - (2) Model konfiguracji marży - (3) Domyślny procent marży.
+If either the feature margin, and/or the configuration model margin are applied, then the default margin percentage is not applied.;Als ofwel de feature marge en / of de configuratiemodelmarge worden toegepast, wordt het standaardmargepercentage niet toegepast.;Si la marge de la caractéristique et/ou la marge du modèle de configuration sont appliquées, le pourcentage de marge par défaut n'est pas appliqué.;Wenn entweder der Funktionsspielraum und/oder der Konfigurationsmodellspielraum angewendet werden, wird der standardmäßige Spielraumprozentsatz nicht angewendet.;Om funktionsmarginalen och/eller konfigurationsmodellmarginalen tillämpas, då kommer standardmarginalen inte att tillämpas.;Jeśli zostanie zastosowany cecha marży i/lub model konfiguracji marży, domyślna wartość procentowa marży nie zostanie zastosowana.
+Add;Toevoegen;Ajouter;Hinzufügen;Tillägg;Dodaj
+Enable this to display prices including VAT in order entry and the showroom.;Schakel dit in om prijzen inclusief btw weer te geven bij orderinvoer en de showroom.;Activez cette option pour afficher les prix incluant la TVA dans la saisie des commandes et dans le showroom.;Aktivieren Sie diese Option, um bei der Auftragserfassung und im Showroom Preise einschließlich Mehrwertsteuer anzuzeigen.;Slå på den här funktionen för att visa priser inkl. moms i orderingången och i showroomet.;Włącz tę opcję, aby wyświetlić ceny zawierające podatek VAT przy wprowadzaniu zamówień i showroom.
+Database;Database;Base de données;Datenbank;Database;Baza danych
+Table Presets;Tabelvoorinstellingen;Table Presets;Tabellenvoreinstellungen;Tabellinställningar;Ustawienia wstępne tabel
+Manage Prices;Beheer prijzen;Gérer les prix;Preise verwalten;Hantera priser;Zarządzaj cenami
+Step Editor;Stap Editor;Éditeur d'étapes;Schritt Editor;Step Editor;Edytor kroków
+Quotations;Offertes;Devis;Angebote;Offerter;Oferty 
+Templates;Templates;Modèles;Vorlagen;Mallar;Szablony
+Properties;Eigenschappen;Propriétés;Eigenschaften;Egenskaper;Właściwości
+CRM Accounts;CRM Accounts;Comptes CRM;CRM-Kontos;CRM-konton;Konta CRM
+Integrations;Integraties;Intégrations;Integrationen;Integrationer;Integracje
+Users;Gebruikers;Utilisateurs;Nutzer;Användare;Użytkownicy
+Sub-organizations;Suborganisaties;Sous-organisations;Unterorganisationen;Suborganisationer;Spółki zależne
+Localization;Lokalisatie;Localisation;Lokalisierung;Lokalisering;Lokalizacja
+Countries;Landen;Pays;Länder;Länder;Kraje
+Currencies;Valuta's;Devises;Währungen;Valutor;Waluty
+Languages;Talen;Langues;Sprachen;Språk;Języki
+Translations;Vertalingen;Traductions;Übersetzungen;Översättningar;Tłumaczenia
+Settings;Instellingen;Paramètres;Einstellungen;Inställningar;Ustawienia 
+Configure;Configureren;Configurer;Konfigurieren;Konfigurera;Konfiguruj
+Create quotation;Offerte aanmaken;Créer un devis;Angebot ertsellen;Skapa offert;Stwórz ofertę
+Account settings;Account instellingen;Paramètres du compte;Konto-Einstellungen;Kontoinställningar;Ustawienia konta
+Open changelog;Changelog openen;Ouvrir le journal des modifications;Änderungsprotokoll öffnen;Öppna changelog;Otwórz rejestr zmian
+Logout;Uitloggen;Déconnexion;Ausloggen;Logga ut;Wyloguj
+Most configured products;Meest geconfigureerde producten;Produits les plus configurés;Die meist konfigurierten Produkte;Vanligaste konfigurerade produkter;Najczęściej konfigurowane produkty
+Quotations created weekly;Wekelijks gemaakte offertes;Cotations créées chaque semaine;Wöchentlich erstellte Angebote;Offerter som skapades veckovis;Oferty stworzone w tygodniu
+News and updates;Nieuws en updates;Nouvelles et mises à jour;Neuigkeiten und Updates;Aktuella nyheter och uppdateringar;Nowości i aktualizacje
+Add item;Item toevoegen;Ajouter un article;Artikel hinzufügen;Lägg till objekt;Dodaj element
+Enter configuration code;Voer configuratie code in;Entrez le code de configuration;Konfigurationscode eingeben;Ange konfigurationskod;Wprowadź kod konfiguracyjny
+Next;Volgende;Suivant;weiter;Nästa;Dalej
+Previous;Vorige;Précédent;zurück;Föregående;Wstecz
+Description;Omschrijving;Description;Beschreibung;Beskrivning;Opis
+Customer Reference;Klantreferentie;Référence client;Kundenreferenz;Kundreferens;Referencje klienta
+QTY;Hoeveelheid;QTÉ;Menge;ANTAL;Ilość
+Total Price;Totaalprijs;Prix total;Gesamtpreis;Totalt pris;Cena całkowita
+Prices do not include VAT;Prijzen zijn exclusief BTW;Les prix ne comprennent pas la TVA;Preise excl. MwSt;Priserna inkluderar inte moms;Ceny nie zawierają podatku VAT
+Create new quotation;Nieuwe offerte maken;Créer un nouveau devis;Neues Angebot erstellen;Skapa en ny offert;Stwórz nową ofertę
+Add new configuration;Nieuwe configuratie toevoegen;Ajouter une nouvelle configuration;Neue Konfiguration hinzufügen;Lägg till en ny konfiguration;Dodaj nową konfigurację
+Base Price;Basisprijs;Prix de base;Standardpreis;Grundpris;Cena podstawowa
+Additional Price;Additionele prijs;Prix supplémentaire;Mehrpreis;Tilläggspris;Dodatkowa cena
+Prices include VAT;Prijzen zijn inclusief BTW;Les prix incluent la TVA;Preise incl. MwSt;Priserna inkluderar moms;Ceny zawierają VAT
+Add to quotation;Voeg toe aan offerte;Ajouter au devis;An das Angebot zufügen;Lägg till i offert;Dodaj do oferty
+Switch configuration;Wijzig configuratie;Configuration du commutateur;Konfiguration ändern;Konfigurering av växlar;Zmień konfigurację
+Download import template;Import template downloaden;Télécharger le modèle d'importation;Importvorlage herunterladen;Ladda ner importmall;Pobierz szablon importu
+Import features;Features importeren;Importer des fonctionnalités;Funktionen importieren;Funktioner för import;Importowanie wyposażenia
+Export selected features;Geselecteerde features exporteren;Exporter les fonctionnalités sélectionnées;Ausgewählte funktionen exportieren;Exportera utvalda funktioner;Eksportowanie wybranych obiektów
+feature(s) selected;feature(s) geselecteerd;Fonctionnalité(s) sélectionnée(s);Funktion(en) ausgewählt;vald(a) funktion(er);Wybrany/e obiekt/y
+Delete selected features;Verwijder geselecteerde features;Supprimer les caractéristiques sélectionnées;Entferne ausgewählte Funktionen;Ta bort valda funktioner;Usuń wybrane obiekty
+Duplicate selected features;Dupliceer geselecteerde features;Dupliquer les caractéristiques sélectionnées;Dupliziere ausgewählte Funktionen;Duplicera utvalda funktioner;Duplikuj wybrane obiekty
+Add property;Eigenschap toevoegen;Ajouter une propriété;Eigenschaft hinzufügen;Lägg till egenskap;Dodaj obiekt
+There are no categories.;Er zijn geen categorieën.;Il n'y a pas de catégories.;Keine Kategorien vorhanden;Det finns inga kategorier.;Nie ma kategorii
+Values;Waarden;Valeurs;Werte;Värden;Wartości
+Minimum value;Minimum waarde;Valeur minimale;Mindestwert;Minsta värde;Wartość minimalna
+Specify the minimum amount that can be entered as quantity.;Geef de minimale waarde op dat als hoeveelheid kan worden ingevoerd.;Indiquez le montant minimum qui peut être saisi comme quantité.;Geben Sie den Mindestwert an, der als eine Menge eingeführt werden kann.;Ange det minsta värde som kan anges som kvantitet.;
+Maximum value;Maximum waarde;Valeur maximale;Höchstwert;Högsta värdet;Wartość maksymalna
+Specify the maximum amount that can be entered as quantity.;Geef de maximale waarde op dat als hoeveelheid kan worden ingevoerd.;Indiquez le montant maximal qui peut être saisi comme quantité.;Geben Sie den Höchstwert an, der als eine Menge eingeführt werden kann.;Ange det högsta belopp som kan anges som kvantitet.;Określ maksymalną kwotę, którą można wprowadzić jako ilość.
+Packing unit;Packing unit;Unité d'emballage;Packeinheit;Förpackningsenhet;Jednostka opakowania
+Specify the amount for rounding up on the material list.;Specificeer de hoeveelheid voor afronding op de materiaallijst.;Spécifiez la quantité à arrondir sur la liste d'articles.;Geben Sie die Menge für die Abrundung in der Stückliste an.;Ange det mängd som ska avrundas uppåt på materiallistan.;Należy określić kwotę do zaokrąglenia w górę na liście materiałów.
+Step value;Stap waarde;Valeur de l'étape;Schrittwert;Stegvärde;Wartość kroku
+If a quantity is incremented, it is with steps of this value.;Als een hoeveelheid wordt verhoogd, gebeurt dit met stappen van deze waarde.;Si une quantité est incrémentée, c'est par paliers de cette valeur.;Wenn eine Menge erhöht wird, passiert dies in Schritten dieses Wertes.;Om en kvantitet ökas sker det med steg av detta värde.;Jeśli ilość jest zwiększana, jest to z krokami tej wartości.
+Unit of measurement;Meet eenheid;Unité de mesure;Maßeinheit;Mätningsenhet;Jedostka miary
+Unit which is used for the quantities.;Meet eenheid die wordt gebruikt voor hoeveelheden.;Unité qui est utilisée pour les quantités.;Maßeinheit die bei bestimmten Mengen genutzt wird.;Enhet som används för kvantiteten.;Jednosta, która jest używana do ilości
+Price settings;Prijs instellingen;Paramètres de prix;Preiseinstellungen;Prisinställningar;Ustawienia cen
+Disallow discount;Korting niet toestaan;Désactiver la remise;Rabatt nicht möglich;Avvisa rabatt;Brak zezwolenia na rabat
+Contact information;Contact informatie;Informations sur le contact;Kontakt Informationen;Kontaktuppgifter;Informacje kontaktowe
+General info;Algemene informatie;Informations générales;Allgemeine Informationen;Allmän information;Informacje ogólne
+Address;Adres;Adresse;Adresse;Adress;Adres
+Business details;Zakelijke details;Informations commerciales;Geschäftsdetails;Affärsinformation;Szczegóły firmy
+Contacts;Contacten;Contacts;Kontakte;Kontakter;Kontakty
+Company name;Bedrijfsnaam;Nom d'Enterprise;Firmenname;Företagets namn;Nazwa firmy
+Company;Bedrijf;Enterprise;Firma;Företag;Firma
+Email;Email;Courriel;E-Mail;E-post;Email
+Quotation has been copied successfully. Would you like to open the new quotation?;Offerte is succesvol gekopieerd. Wilt u de nieuwe offerte openen?;Le devis a été copié avec succès. Voulez-vous ouvrir le nouveau devis ?;Angebot wurde erfolgreich kopiert. Wollen Sie das neue Angebot öffnen?;Offerten är korrekt kopierad. Vill du öppna den nya offerten?;Oferta została pomyślnie skopiowana. Czy chcesz otworzyć nową ofertę?
+Relation Type;Relatie type;Type de relation;Art der Beziehung;Relationstyp;Typ relacji
+Delivery Date;Leverdatum;Date de livraison;Lieferdatum;Leveransdatum;Termin dostawy
+Street;Straat;Rue;Strasse;Gata;Ulica
+House number;Huisnummer;Numéro de maison;Hausnummer;Husnummer;Numer domu
+Postal code;Postcode;Code postal;Postleitzahl;Postnummer;Kod pocztowy
+City;Stad;Ville;Stadt;Stad;Miasto
+Country;Land;Pays;Land;Land;Kraj
+IBAN;IBAN;IBAN;IBAN;IBAN;IBAN
+CoC/KvK Number;CoC/KvK Nummer;Numéro CoC/KvK;Nummer der Handelskammer;CoC/KvK-nummer;Nr REGON 
+VAT/BTW Number;VAT/BTW Nummer;Numéro de TVA/BTW;Umsatzsteuer Identifikationsnummer (USt-ID);Moms/BTW-nummer;Nr VAT
+Transfer;Overdragen;Transfert;übertragen;Överföring;Przekaż
+Copy;Kopiëren;Copie;kopieren;Kopia;Kopiuj
+Delete;Verwijderen;Supprimer;entfernen / löschen;Radera;Usuń
+Accept;Accepteren;Accepter;Akzeptieren;Acceptera;Akcpetuj
+Decline;Weigeren;Refuser;ablehnen;Avslå;Oodrzuć
+Document;Document;Document;Dokument;Dokument;Dokument
+Submit;Indienen;Soumettre;Einreichen;Skicka in;Prześlij
+Seller;Verkoper;Vendeur;Verkaüfer;Säljare;Sprzedawca
+Customer;Klant;Client;Kunde  ;Kund;Klient
+Ship to;Verzend naar;Envoyer à;senden an;Skicka till;Wysyłka do
+Ship to customer;Verzend naar klant;Expédier au client;An den Kunden senden;Skicka till kunden;Wysylka do Klienta
+Status;Status;Statut;Status;Status;Status
+Details;Details;Détails;Details;Uppgifter;Szczegóły
+Language;Taal;Langue;Sprache;Språk;Język
+Currency;Valuta;Devise;Währung;Valuta;Waluta
+Exchange rate;Wisselkoers;Taux de change;Wechselkurs;Växelkurs;Kurs wymiany
+Delivery date;Bezorgdatum;Date de livraison;Lieferdatum;Leveransdatum;Termin zakończenia produkcji
+Expires Date;Vervalt datum;Date d'expiration;Verfällt am Datum / Verfallsdatum;Utgångsdatum;Data wygaśnięcia
+Template;Template;Modèle;Vorlage;Mall;Szablon
+Subject;Onderwerp;Sujet;Thema;Ämne;Temat
+Quotation reference;Offerte referentie;Référence du devis;Angebotsreferenz;Referens för offert;Nr Oferty
+Remarks;Opmerkingen;Remarques;Kommentare;Anmärkningar;Uwagi
+Files;Bestanden;Fichiers;Dateien;Filer;Pliki
+Attach file;Bestand toevoegen;Joindre un fichier;Datei hinzufügen;Bifoga fil;Załącz plik
+Edit configuration;Configuratie aanpassen;Modifier la configuration;Konfiguration anpassen;Redigera konfigurationen;Edytuj konfigurację
+Actions;Acties;Actions;Handlungen;Åtgärder;Działania
+Total price excl. VAT;Totaalprijs exclusief BTW;Prix total hors TVA;Gesamtpreis inclusieve Mehrwertsteuer;Totalpris exkl. moms;Cena całkowita bez VAT
+Add product configuration;Configuratie toevoegen;Ajouter la configuration du produit;Konfiguration hinzufügen;Lägg till produktkonfiguration;Dodaj konfigurację produktu
+Add existing feature;Bestaande feature toevoegen;Ajouter une fonctionnalité existante;Verfügbare Funktion hinzufügen;Lägg till befintlig funktion;Dodaj istniejące wyposażenie
+Discount;Korting;Remise;Rabatt  ;Rabatt;Rabat
+Organization;Organisatie;Organisation;Unternehmen;Organisation;Organizacja
+Packing difference;Verpakkingsverschil;Différence d'emballage;Verpackungsunterschied;Skillnad i förpackning;Różnica w pakowaniu
+Subtotal cost price;Subtotale kostprijs;Sous-total prix de revient;Teilgesamtkosten;Totalsumma kostnadspris;Koszt własny dla sumy częściowej
+Purchase discount (wholesale);Inkoopkorting (staffelkorting);Remise sur achat (vente en gros);Einkaufsrabatt (Gruppenrabatt);Inköpsrabatt (grossist);Rabat na zakup (sprzedaż hurtowa)
+Total cost price;Totale kostprijs;Prix de revient total;Gesamtkosten;Totalt inköpspris;Całkowity koszt własny
+Total margin;Totale marge;Marge totale;Gesamtmarge;Total marginal;Całkowita marża
+Apply VAT;BTW toepassen;Appliquer la TVA;MwSt. anwenden;Ange moms;Zastosuj VAT
+Edit group name;Groepsnaam aanpassen;Modifier le nom du groupe;Gruppenname anpassen;Redigera gruppnamn;Edytuj nazwę grupy
+Subtotal;Subtotaal;Sous-total;Zwischensumme;Totalsumma;Suma częściowa
+Assign new associated feature;Nieuwe associated feature toewijzen;Attribuer une nouvelle caractéristique associée;Neues zugehöriges Funktion zuweisen;Tilldela ny associerad funktion;Przypisywanie nowego, powiązanego wyposażenia
+or;of;ou;oder;Eller;lub
+Create new associated feature;Nieuwe associated feature maken;Créer une nouvelle caractéristique associée;Neues zugehöriges Funktion erstellen;Skapa en ny associerad funktion;Tworzenie nowego, powiązanego wyposażenia
+Assign to features;Toewijzen aan features;Affecter à des caractéristiques;Funktionen zuordnen;Tilldela funktioner;Przypisanie do wyposażeń
+Assign property to feature(s);Eigenschap toewijzen aan feature(s);Attribuer une propriété à une ou plusieurs caractéristiques;Eigenschaft zu Funktion(en) zuordnen;Tilldela egenskap till funktion(er);Przypisywanie opisu do wyposażenia
+Features with property;Features met eigenschap;Caractéristiques avec propriété;Funktionen mit Eigenschaft;Funktioner med egenskap;Wyposażenie z cechami
+Name;Naam;Nom;Name;Namn;Nazwa
+Type;Type;Type;Typ;Typ;Typ
+Input;Invoer;Entrée;Eingabe;Inmatning;Wkład
+Associated features;Associated features;Caractéristiques associées;Zugehörige Funktionen;Tillhörande egenskaper;Wyposażenie powiązane
+Text;Tekst;Texte;Text;Text;Tekst
+Multi-line text;Multi-line tekst;Texte à plusieurs lignes;Mehrzeiliger Text;Text med flera rader;Tekst wielowierszowy
+Number;Nummer;Nombre;Nummer;Antal;Numer
+Toggle;Toggle;Basculer;Umschalten;Växla mellan;Przełącz
+Date;Datum;Date;Datum;Datum;Data
+Field select (dropdown);Veld selectie (dropdown);Sélection de champ (liste déroulante);Feldauswahl (Dropdown);Fältval ( dropdown);Wybór pola (lista rozwijana)
+Code;Code;Code;Code;Kod;Kod
+Constraints;Constraints;Contraintes;Auflagen;Restriktioner;Ograniczenia
+Preview changes;Preview wijzigingen;Prévisualiser les modifications;Vorschau Änderungen;Förhandsgranskning av ändringar;Podgląd zmian
+Add new feature;Nieuwe feature toevoegen;Ajouter une nouvelle fonctionnalité;Neue Funktion hinzufügen;Lägg till en ny funktion;Dodaj nowe wyposażenie
+Add configuration model;Configuratie model toevoegen;Ajouter un modèle de configuration;Konfiguration hinzufügen;Lägg till en konfigurationsmodell;Dodaj model konfiguracji
+Add dynamic group;Dynamische groep toevoegen;Ajouter un groupe dynamique;Dynamische Gruppe hinzufügen;Lägg till en dynamisk grupp;Dodaj grupę dynamiczną
+Edit dynamic group;Dynamische groep bewerken;Modifier un groupe dynamique;Dynamische Gruppe ändern;Redigera en dynamisk grupp;Edytuj grupę dynamiczną
+Remove dynamic group;Dynamische groep verwijderen;Supprimer un groupe dynamique;Dynamische Gruppe entfernen;Ta bort en dynamisk grupp;Usuń grupę dynamiczną
+History;Geschiedenis;Historique;Verlauf;Historik;Historia
+Publish;Publiceren;Publier;Publizieren;Publicera;Opublikuj
+Legend;Legenda;Légende;Beschreibung;Legend;Legenda
+item(s) selected;geselecteerde item(s);élément(s) sélectionné(s);Element(e) ausgewählt;vald(a) artikel(er);wybrany/e obiekt/y
+Deselect all;Deselecteer alles;Désélectionner tout;Alle abwählen;Avmarkera alla;Odznacz wszystko
+Change category;Wijzig categorie;Changer de catégorie;Kategorie ändern;Ändra kategori;Zmień kategorię
+Change feature;Wijzig feature;Modifier la fonction;Funktion ändern;Ändra funktion;Zmień wyposażenie
+Highlight to constraints;Benadruk beperkingen van;Mettre en évidence les contraintes;Highlight zu Einschränkungen;Markera för restriktioner;Wyróżnienie ograniczeń
+Highlight from constraints;Benadrukken beperkingen naar;Mettre en évidence à partir des contraintes;Highlight aus Einschränkungen;Markera från restriktioner;Wyróżnienie z ograniczeń
+Edit type;Type bewerken;Type d'édition;Typ bearbeiten;Redigera typ;Typ edycji
+Fields;Velden;Champs;Felder;Fält;Pola
+Add new field;Nieuw veld toevoegen;Ajouter un nouveau champ;Neues Feld hinzufügen;Lägg till ett nytt fält;Dodaj nowe pola
+Optional;Optioneel;Facultatif;Optional;Valfritt;Opcjonalny
+Mandatory;Verplicht;Obligatoire;Obligatorisch;Obligatoriskt;Obowiązkowe
+Alternative;Alternatief;Autre possibilité :;Alternativ;Alternativ;Alternatywnie
+Or;Of;Ou;Oder;Eller;lub 
+Hide in quotation;Verbergen in offerte;Cacher dans le devis;Im Angebot verbergen;Dölj i offert;Ukryj w ofercie
+Hide in showroom;Verbergen in showroom;Masquer dans la salle d'exposition;Im Showroom verbergen;Dölj i showroom;Ukryj w showroom
+Hide in order entry;Verbergen in orderinvoer;Masquer dans la saisie de la commande;Im Auftrag verbergen;Dölj i orderingången;Ukryj we wprowadzaniu zamówienia
+Paste;Plakken;Coller;Einfügen;Klistra in;Wklej
+Switch to configuration model;Schakel over naar het configuratiemodel;Passer au modèle de configuration;Zum Konfigurationsmodell wechseln;Växla till konfigurationsmodell;Przełącz na model konfiguracji
+OR;OF;OU;OR;OR;LUB
+Showroom;Showroom;Salle d'exposition;Showroom;Showroom;Showroom
+Order Entry;Order Entry;Entrée des commandes;Auftragserfassung;Ingång av beställningar;Wprowadzenie zamówienia
+Restore;Herstellen;Restaurer;Wiederherstellen;Återställ;Przywróć
+Configuration model was last published at;Configuratiemodel is voor het laatst gepubliceerd op;Le modèle de configuration a été publié pour la dernière fois à l'adresse;Das Konfigurationsmodell wurde zeletzt veröffentlicht auf;Konfigurationsmodell publicerades senast på;Model konfiguracji został ostatnio opublikowany na stronie
+Content was last published at;Inhoud is voor het laatst gepubliceerd op;Le contenu a été publié pour la dernière fois à;Der Inhalt wurde zuletzt veröffentlicht auf;Innehållet publicerades senast på;Zawartość została ostatnio opublikowana na stronie
+Subcategories;Subcategorie;Sous-catégories;Subkategorien;Subkategorier;Podkategorie
+Edit;Bewerk;Modifier;Bearbeiten;Redigera;Edytuj
+Add subcategory;Subcategorie toevoegen;Ajouter une sous-catégorie;Subkategorie hinzufügen;Lägg till en subkategori;Dodaj podkategorię
+Unassign;Toewijzing ongedaan maken;Désassigner;Zuweisung aufheben;Ta bort;Cofnij przypisanie
+Unassign features;Toewijzing van features ongedaan maken;Désassigner des fonctionnalités;Zugewiesene Funktionen aufheben;Ta bort funktioner;Cofnij przypisanie wysposażenia
+Assigned features;Toegewezen features;Fonctions assignées;Zugewiesene Funktionen;Tilldelade funktioner;Przypisane wyposażenie
+Assign features;Features toewijzen;Affecter des caractéristiques;Funktionen zuordnen;Tilldela funktioner;Przypisz wyposażenie
+Order entry;Orderinvoer;Entrée de commande;Auftragseingang;Orderingång;Wprowadzanie zamówień
+Publish all; Publiceer alle linked modellen;Publier tout;Alles publizieren;Publicera alla;Publikuj wszystko
+Purchase Discount;Aankoopkorting;Remise sur achat;Einkaufsrabatt  ;Inköpsrabatt;Rabat od zakupu
+Sellable;Verkoopbaar;Vendable;Verkaufbar;Säljbar;Sprzedawalne
+Default margin;Standaardmarge;Marge par défaut;Standard marge;Standardmarginal;Domyślna marża
+Showroom prices;Showroom prijzen;Prix de la salle d'exposition;Showroom-Preise;Priser i showroom;Cena showroom
+Add image;Voeg afbeelding toe;Ajouter une image;Bild hinzufügen;Lägg till en bild;Dodaj obraz
+Edit step;Stap bewerken;Modifier l'étape;Schritt bearbeiten;Redigera steg;Edytuj krok
+Delete step;Stap verwijderen;Supprimer l'étape;Schritt löschen;Radera steg;Usuń krok
+Move left;Ga naar links;Déplacer à gauche;Nach links verschieben;Flytta till vänster;Przesuń na lewo
+Move right;Ga naar rechts;Déplacer vers la droite;Nach rechts verschieben;Flytta till höger;Przesuń na prawo
+Features in step;Features in stap;Caractéristiques de l'étape;Funktionen im Schritt;Funktioner i steget;Wyposażenie w krokach
+Add hotspot;Voeg hotspot toe;Ajouter un hotspot;Hotspot hinzufügen;Lägg till hotspot;Dodaj hotspot
+Edit background;Achtergrond bewerken;Modifier l'arrière-plan;Hintergrund bearbeiten;Redigera bakgrund;Edytuj tło
+Add new step;Voeg een nieuwe stap toe;Ajouter une nouvelle étape;Neuen Schritt hinzufügen;Lägg till ett nytt steg;Dodaj nowy krok
+Click here to create a step;Klik hier om een stap te maken;Cliquez ici pour créer une étape;Klicken Sie hier, um einen Schritt zu erstellen;Klicka här för och skapa ett steg;Naciśnij tu aby stworzyć krok
+Select a model from Autodesk storage;Selecteer een model uit Autodesk-opslag;Sélectionner un modèle à partir du stockage Autodesk;Wählen Sie ein Modell aus dem Autodesk-Speicher;Välj en modell från Autodesk-lagret;Wybierz model z magazynu Autodesk
+Cancel;Annuleren;Annuler;Abbrechen;Avbryt;Anuluj
+Attachment nodes;Bevestigingsknooppunten;Nœuds d'attachement;Attachement-Knoten;Knutpunkter för bifogade objekt;Karty załączników
+Rotation;Rotatie;Rotation;Drehung;Rotation;Obrót
+Add attachment node;Voeg bevestigingsknooppunt toe;Ajouter un nœud d'attachement;Anhängeknoten hinzufügen;Lägg till en knutpunkt för bifogade filer;Dodawanie karty załącznika
+Upload a 3d model;Upload een 3D-model;Télécharger un modèle 3d;Hochladen eines 3D-modells;Ladda upp en 3d-modell;Prześlij model 3D
+Drop a template file or click to browse;Zet een sjabloonbestand neer of klik om te bladeren;Déposez un fichier modèle ou cliquez pour le parcourir;Eine Vorlagendatei ablegen oder zum Durchsuchen klicken;Lägg ner en mallfil eller klicka för att bläddra;Zrzuć plik szablonu lub kliknij aby przeglądać
+Upload;Uploaden;Télécharger;Hochladen von;Ladda upp;Prześlij
+Download XML scheme;XML-schema downloaden;Télécharger un modèle XML;XML-Schema herunterladen;Ladda ner XML-schemat;Pobierz schemat XML
+Download;Download;Télécharger;Herunterladen;Ladda ner;Pobierz
+Default;Standaard;Défaut;Standard;Standard;Domyślny
+Allow all;Sta alles toe;Autoriser tout;Alle zulassen;Tillåt alla;Zezwalaj na wszystko
+Order;Volgorde;Commande;Auftrag;Beställning;Zamówienie
+Publish All; Publiceer Alles;Publier tout;Alles Publizieren;Publicera alla;Publikuj wszystko
+Is required;Is benodigd;Est obligatoire;Ist erforderlich;Krävs;Jest wymagane
+Is read-only;Is alleen te lezen;Est en lecture seule;Ist nur lesbar;Är skrivskyddat;Tylko do odczytu
+Terms & Conditions;Algemene voorwaarden;Conditions générales de vente;Bedingungen und Konditionen;Villkor;Regulamin
+Last seen;Laatst gezien;Dernière visite;Zuletzt gesehen;Senaste setts;Ostatnio widziany
+2-FA;2-FA;2-FA;2-FA;2-FA;2-FA
+Sub-organization;Suborganisatie;Sous-organisation;Sub-Organisation;Suborganisation;Spółka zależna
+Access to;Toegang tot;Accès au;Zugang zu;Tillgång till;Dostęp do
+CRM account;CRM-account;Compte CRM;CRM-Konto;CRM-konto;Konto CRM
+Contact;Contact;Contact;Kontakt;Kontakta;Kontakt
+Permissions;Rechten;Permissions;Berechtigungen;Behörigheter;Uprawnienia
+User creation requests;Verzoeken om gebruikers aan te maken;Demandes de création d'utilisateur;Anfragen zur Benutzererstellung;Förfrågningar om skapande av användare;Prośby użytkownika o utworzenie
+Resend activation mail;Activeringsmail opnieuw verzenden;Renvoyer le mail d'activation;Aktivierungsmail erneut senden;Skicka om aktiveringsbrev;Wyślij ponownie wiadomość aktywacyjną
+Two-factor auth.;Twee-factor auth.;Autorisation à deux facteurs;Zwei-Faktor-Authentifizierung;Tvåfaktorsautentisering.;Uwierzytelnienie dwuskładnikowe
+Disable;Uitschakelen;Désactiver;Deaktivieren;Inaktivera;Wyłącz
+Configuration model versioning;Configuratiemodel versiebeheer;Gestion des versions du modèle de configuration;Versionierung des Konfigurationsmodells;Versionen av konfigurationsmodellen;Wersja modelu konfiguracji
+Enable this for configuration model versioning. All the changes made to the configuration model will be saved as a draft, which can be previewed. All the changes must be published explicitly to come into effect for the end-users.;Schakel dit in voor versiebeheer van configuratiemodellen. Alle wijzigingen die in het configuratiemodel zijn aangebracht, worden opgeslagen als concept, dat kan worden bekeken. Alle wijzigingen moeten expliciet worden gepubliceerd om van kracht te worden voor de eindgebruikers.;Activez cette option pour le gestion des versions du modèle de configuration. Toutes les modifications apportées au modèle de configuration seront enregistrées en tant que brouillon, qui peut être prévisualisé. Toutes les modifications doivent être publiées explicitement pour être prises en compte par les utilisateurs finaux.;Aktivieren Sie diese Option für die Versionierung des Konfigurationsmodells. Alle am Konfigurationsmodell vorgenommenen Änderungen werden als Entwurf gespeichert, der in der Vorschau angezeigt werden kann. Alle Änderungen müssen explizit veröffentlicht werden, um für die Endbenutzer wirksam zu werden.;Aktivera detta för versionering av konfigurationsmodeller. Samtliga ändringar som görs i konfigurationsmodellen sparas som ett utkast och kan förhandsgranskas. Alla ändringar måste offentliggöras tydligt för att träda i kraft för användarna.;Włącz tę opcję dla przechowywania wersji modelu konfiguracji. Wszystkie zmiany wprowadzone w modelu konfiguracji zostaną zapisane jako wersja robocza, której podgląd można wyświetlić. Wszystkie zmiany muszą zostać wyraźnie opublikowane, aby mogły zostać wprowadzone w życie dla użytkowników końcowych.
+Configuration model specific prices for features;Configuratiemodel specifieke prijzen voor features;Prix des fonctionnalités spécifiques au modèle de configuration;Konfiguration modellspezifischer Preise für Funktionen;Specifika priser för funktioner i konfigurationsmodellen;Ceny wyposażenia specyficznego dla modelu konfiguracji
+Enable this to have different feature prices per configuration model. This allows you to have different prices for the same feature, based on the configuration model the feature is in. An extra option will show up in the Relationship properties dialog in the configuration model editor to add a fixed value or a formula to overwrite the feature price.;Schakel dit in om prijzen voor een feature te bepalen per configuratiemodel. Hierdoor kun je verschillende prijzen hebben voor dezelfde feature, op basis van het configuratiemodel waarin de feature zich bevindt. Er verschijnt een extra optie in de Relatie-eigenschappen dialoog in de configuratiemodeleditor om een vaste waarde of een formule toe te voegen om de featureprijs te overschrijven.;Activez cette option pour avoir des prix différents pour les fonctionnalités par modèle de configuration. Cela vous permet d'avoir des prix différents pour la même fonctionnalité, en fonction du modèle de configuration dans lequel la fonctionnalité se trouve. Une option supplémentaire s'affiche dans la boîte de dialogue des propriétés de la relation dans l'éditeur de modèle de configuration pour ajouter une valeur fixée ou une formule permettant de remplacer le prix de la fonctionnalité.;Aktivieren Sie diese Option, um unterschiedliche Preise für ein Funktion pro Konfigurationsmodell zu haben. So können Sie unterschiedliche Preise für ein und dasselbe Funktion haben, je nachdem, in welchem Konfigurationsmodell sich das Funktion befindet. Im Dialog Beziehungseigenschaften im Konfigurationsmodell-Editor wird eine zusätzliche Option angezeigt, mit der Sie einen festen Wert oder eine Formel zum Überschreiben des Funktionspreises hinzufügen können.;Aktivera detta för att ha olika funktionspriser per konfigurationsmodell. Så här kan du ha olika priser för samma funktion, beroende på vilken konfigurationsmodell funktionen finns i. Ett extra alternativ visas i dialogrutan;Włącz tę opcję, aby mieć różne ceny wyposażenia dla każdego modelu konfiguracji. Umożliwia to różne ceny tej samego wyposażenia, w zależności od modelu konfiguracji, w którym wyposażenie się znajduje. W oknie dialogowym Właściwości relacji w edytorze modelu konfiguracji pojawi się dodatkowa opcja umożliwiająca dodanie stałej wartości lub formuły zastępującej cenę elementu.
+Show code in configuration models;Code tonen in configuratie modellen;Prix des caractéristiques spécifiques aux modèles de configuration;Code in Konfigurationsmodellen zeigen;Relationsegenskaper i konfigurationsmodellen för att lägga till ett fast värde eller en formula för att skriva över funktionspriset.;Pokaż kod w modelach konfiguracji
+Enable this to show a Feature's Code next to its Name on the configuration model pages.;Schakel dit in om de feature code naast de naam ervan op de configuratiemodelpagina's te tonen.;Activez cette option pour afficher le code d'une fonctionnalité à côté de son nom sur les pages du modèle de configuration;Aktivieren Sie dies, um den Code eines Funktions neben seinem Namen auf den Konfigurationsmodellseiten anzuzeigen;Visa kod i konfigurationsmodeller;Włącz to zobaczyć Kod Wyposażenia  obok jego nazwy na stronach modelu konfiguracji
+Disable EMS conflict dialog;Schakel EMS-conflictdialoog uit;Désactiver le dialogue de conflit EMS;EMS-Konfliktdialog deaktivieren;Slå på knappen om du vill visa en funktions kod bredvid sitt namn.;Wyłącz okna dialogowego konfliktów EMS
+Disable Showroom conflict dialog;Schakel Showroom-conflictdialoog uit;Désactiver le dialogue de conflit du showroom;Showroom-Konfkliktdialog deaktivieren;Inaktivera dialogrutan för EMS-konflikter;Wyłącz dialog konfliktu w Showroom
+The conflict dialog opens up when there is a conflict in selected options when configuring a product in the ""Order Entry"" page. It enables the user to select different options, in order to resolve the conflict. If the dialog is disabled, the software automatically enables/disables certain options such that the selected option is enabled.;Het conflictdialoogvenster wordt geopend wanneer er een conflict is in geselecteerde opties bij het configureren van een product op de pagina  ""Orderinvoer"". Hiermee kan de gebruiker verschillende opties selecteren om het conflict op te lossen. Als het dialoogvenster is uitgeschakeld, schakelt de software bepaalde opties automatisch in / uit, zodat de geselecteerde optie wordt ingeschakeld.;La boîte de dialogue de conflit s'ouvre lorsqu'il y a un conflit dans les options sélectionnées lors de la configuration d'un produit dans la page ""Entrée de la commande"". Elle permet à l'utilisateur de sélectionner différentes options, afin de résoudre le conflit. Si le dialogue est désactivé, le logiciel active/désactive automatiquement certaines options de sorte que l'option sélectionnée soit activée.;Der Konfliktdialog öffnet sich, wenn bei der Konfiguration eines Produkts auf der Seite ""Auftragserfassung"" ein Konflikt bei den ausgewählten Optionen auftritt. Er ermöglicht es dem Benutzer, verschiedene Optionen auszuwählen, um den Konflikt aufzulösen. Wenn der Dialog nicht aktiviert ist, aktiviert/deaktiviert die Software automatisch bestimmte Optionen, so dass die ausgewählte Option aktiviert wird.;Inaktivera dialogrutan för konflikter i showroom;Okno dialogowe konfliktu otwiera się, gdy występuje konflikt w wybranych opcjach podczas konfigurowania produktu na stronie ""Wprowadzanie zamówień"". Umożliwia użytkownikowi wybranie różnych opcji w celu rozwiązania konfliktu. Jeśli okno dialogowe jest wyłączone, oprogramowanie automatycznie włącza/wyłącza niektóre opcje, tak że wybrana opcja jest włączona.
+The conflict dialog opens up when there is a conflict in selected options when configuring a product in the showroom. It enables the user to select different options, in order to resolve the conflict. If the dialog is disabled, the software automatically enables/disables certain options such that the selected option is enabled.;Het conflictdialoogvenster wordt geopend wanneer er een conflict is in geselecteerde opties bij het configureren van een product in de showroom. Hiermee kan de gebruiker verschillende opties selecteren om het conflict op te lossen. Als het dialoogvenster is uitgeschakeld, schakelt de software bepaalde opties automatisch in / uit, zodat de geselecteerde optie wordt ingeschakeld.;La boîte de dialogue de conflit s'ouvre lorsqu'il y a un conflit dans les options sélectionnées lors de la configuration d'un produit dans le showroom. Elle permet à l'utilisateur de sélectionner différentes options, afin de résoudre le conflit. Si le dialogue est désactivé, le logiciel active/désactive automatiquement certaines options de sorte que l'option sélectionnée soit activée.;Der Konfliktdialog öffnet sich, wenn bei der Konfiguration eines Produkts im Showroom ein Konflikt bei den ausgewählten Optionen auftritt. Er ermöglicht es dem Benutzer, verschiedene Optionen auszuwählen, um den Konflikt zu lösen. Wenn der Dialog deaktiviert ist, aktiviert/deaktiviert die Software automatisch bestimmte Optionen, so dass die ausgewählte Option aktiviert wird.;Dialogrutan öppnas när det finns en konflikt mellan valda alternativ när du konfigurerar en produkt i showroomet. Där kan användaren välja olika alternativ för att lösa konflikten. Om dialogrutan är inaktiverad, kommer programvaran automatiskt att aktivera/avaktivera vissa alternativ så att det valda alternativet aktiveras;Okno dialogowe konfliktu otwiera się, gdy występuje konflikt w wybranych opcjach podczas konfigurowania produktu na stronie ""Wprowadzanie zamówień"". Umożliwia użytkownikowi wybranie różnych opcji w celu rozwiązania konfliktu. Jeśli okno dialogowe jest wyłączone, oprogramowanie automatycznie włącza/wyłącza niektóre opcje, tak że wybrana opcja jest włączona.
+Privacy policy appendix;Bijlage Privacy beleid;Annexe de la politique de confidentialité;Datenschutzerklärung - Appendix;Tillägg till integritetspolicy;Załącznik do polityki prywatności
+Show appendix;Bijlage weergeven;Montrer l'annexe;Appendix anzeigen;Visa bilaga;Pokaż załącznik
+Add an appendix (PDF) to the privacy policy. The privacy policy is displayed in the cookie bar, which is required by European law. This can be used to stay compliant with the GDPR.;Voeg een appendix (pdf) toe aan het privacy beleid. Het privacy beleid wordt weergegeven in de cookiebalk, die vereist is door de Europese wetgeving. Dit kan worden gebruikt om te voldoen aan de AVG.;Ajoutez une annexe (PDF) à la politique de confidentialité. La politique de confidentialité s'affiche dans la barre de cookies, ce qui est exigé par la législation européenne. Cela peut être utilisé pour rester en conformité avec le GDPR.;Fügen Sie einen Anhang (PDF) zur Datenschutzrichtlinie hinzu. Die Datenschutzrichtlinie wird in der Cookie-Leiste angezeigt, was nach europäischem Recht vorgeschrieben ist. Dies kann verwendet werden, um mit der GDPR konform zu bleiben.;Lägg till en bilaga (PDF) till integritetspolicyn. Integritetspolicyn visas i cookiefältet, som krävs enligt EU-lagstiftningen. Används för att hålla sig i överensstämmelse med GDPR.;Dodaj załącznik (PDF) do polityki prywatności. Polityka prywatności jest wyświetlana w pasku plików cookie, co jest wymagane przez prawo europejskie. Można to wykorzystać do zachowania zgodności z RODO.
+Require custom terms and conditions with account creation;Vereisen aangepaste voorwaarden bij het aanmaken van een account;Exiger des conditions générales personnalisées lors de la création d'un compte;Verlangt benutzerdefinierte Geschäftsbedingungen bei der Erstellung eines Kontos;Krävs anpassade villkor vid registrering.;Wymagaj niestandardowych warunków korzystania z usługi przy utworzeniu konta
+When creating a new account, the new user is required to read and accept the custom terms and conditions.;Bij het aanmaken van een nieuw account moet de nieuwe gebruiker de aangepaste voorwaarden lezen en accepteren.;Lors de la création d'un nouveau compte, le nouvel utilisateur doit lire et accepter les conditions générales personnalisées.;Bei der Erstellung eines neuen Kontos muss der neue Nutzer die benutzerdefinierten Bedingungen lesen und akzeptieren.;Vid registrering måste den nya användaren läsa och godkänna de anpassade villkoren.;Przy tworzeniu nowego konta nowy użytkownik musi przeczytać i zaakceptować niestandardowe warunki.
+Custom terms and conditions;Aangepaste voorwaarden;Conditions générales personnalisées;Benutzerdefinierte Bedingungen und Konditionen;Anpassade villkor;Niestandardowe warunki i postanowienia
+Add a custom terms and conditions (PDF) file. When required, new users have to read and accept those terms and conditions before creating a new account.;Voeg een aangepast bestand met algemene voorwaarden (pdf) toe. Indien nodig moeten nieuwe gebruikers deze voorwaarden lezen en accepteren voordat ze een nieuw account aanmaken.;Ajoutez un fichier de conditions générales personnalisées (PDF). Si nécessaire, les nouveaux utilisateurs doivent lire et accepter ces termes et conditions avant de créer un nouveau compte.;Fügen Sie eine benutzerdefinierte Geschäftsbedingungen (PDF) Datei hinzu. Falls erforderlich, müssen neue Nutzer diese Bedingungen lesen und akzeptieren, bevor sie ein neues Konto erstellen können.;Lägg till en fil med anpassade villkor (PDF). När det krävs måste nya användare läsa och godkänna dessa villkor innan de skapar ett nytt konto.;Dodaj plik niestandardowycg warunków i postanowień (PDF). W razie potrzeby nowi użytkownicy muszą przeczytać i zaakceptować te warunki przed utorzeniem nowego konta.
+Upload new T&C (PDF);Upload nieuwe algemene voorwaarden (pdf);Télécharger de nouvelles T&C (PDF);Neue Bedingungen hochladen (PDF);Ladda upp nya användarvillkor (PDF);Prześlij nowe warunki użytkowania (PDF)
+Value;Waarde;Valeur;Wert;Värde;Wartość
+Total excl. VAT;Totaal excl. BTW;Total hors TVA;Gesamtwert ohne MwSt.;Totalt exkl. moms;Razem bez VAT
+Total incl. VAT;Totaal incl. BTW;Total TTC;Gesamtwert inkl. MwSt.;Totalt inkl. moms;Razem z VAT
+Database restore points;Database herstelpunten;Points de restauration de la base de données;Database Wiederherstellungspunkte;Återställningspunkter för databaser;Punkty przywracania bazy danych
+When you create a database restore point, you can restore all your information to a given point.;Wanneer u een databaseherstelpunt maakt, kunt u al uw informatie naar een bepaald punt herstellen.;Lorsque vous créez un point de restauration de la base de données, vous pouvez restaurer toutes vos informations à un point donné.;Wenn Sie einen Datenbank-Wiederherstellungspunkt erstellen, können Sie alle Informationen bis zu einem bestimmten Punkt wiederherstellen.;När du skapar en återställningspunkt för databasen kan du återställa alla uppgifter till en viss period.;Podczas tworzenia punktu przywracania bazy danych można przywrócić wszystkie informacje do określonego punktu.
+NOTE: this action can not be undone.;OPMERKING: deze actie kan niet ongedaan worden gemaakt.;REMARQUE : cette action ne peut pas être annulée.;HINWEIS: Diese Aktion kann nicht rückgängig gemacht werden.;OBS: Åtgärden kan inte ångras.;UWAGA: tej czynności nie można cofnąć.
+No restore points available.;Geen herstelpunten beschikbaar.;Aucun point de restauration disponible.;Keine Wiederherstellungspunkte verfügbar.;Inga tillgängliga återställningar;Brak dostępnych punktów przywracania.
+Restore points;Herstel punten;Points de restauration;Wiederherstellungspunkte;Återställningpunkter;Punkty przywracania
+Upload restore point;Herstelpunt uploaden;Télécharger un point de restauration;Wiederherstellungspunkt hochladen;Ladda upp återställningspunkt;Przekazywanie punktu przywracania
+Create restore point;Maak herstelpunt;Créer un point de restauration;Wiederherstellungspunkt erstellen;Skapa återställningspunkt;Tworzenie punktu przywracania
+Allow editing table presets;Sta het bewerken van tabelvoorinstellingen toe;Autoriser l'édition des préréglages de table;Bearbeitung von Tabellenvoreinstellungen zulassen;Tillåt redigering av förinställningar för tabeller;Zezwalaj na edycję ustawień predefiniowanych tabeli
+Allow users to create and edit their own table layouts.;Sta gebruikers toe hun eigen tabellay-outs te maken en te bewerken.;Permettez aux utilisateurs de créer et de modifier leurs propres mises en page de tableaux.;Erlauben Sie Benutzern, ihre eigenen Tabellenlayouts zu erstellen und zu bearbeiten.;Tillåt användare att skapa och redigera sina egna tabelllayouter.;Zezwalaj użytkownikom na tworzenie i edytowanie własnych układów tabeli.
+Quotation Lines;Offerte regels;Lignes de cotation;Angebotslinien;Noteringslinjer;Wiersze oferty
+Edit table presets;Tabelvoorinstellingen bewerken;Modifier les préréglages de table;Tabellenvoreinstellungen bearbeiten;Redigera tabellförinställningar;Edytowanie ustawień predefiniowanych tabeli
+Search engine optimalization.;Zoek machine optimalisatie.;Optimisation des moteurs de recherche.;Optimierung für Suchmaschinen.;Förbättring av sökmotorerna.;Optymalizacja pod kątem wyszukiwarek
+API key that is used to integrate Google Analytics. This key is found in Google Analytics.;API-sleutel die wordt gebruikt om Google Analytics te integreren. Deze sleutel is te vinden in Google Analytics.;Clé API qui est utilisée pour intégrer Google Analytics. Cette clé se trouve dans Google Analytics.;API-Key, der für die Integration von Google Analytics verwendet wird. Dieser Schlüssel ist in Google Analytics zu finden.;API-nyckel som används för att integrera Google Analytics. Den här nyckeln finns i Google Analytics.;Klucz API, który służy do integracji Google Analytics. Ten klucz znajduje się w Google Analytics.
+of max.;van max.;de max.;von max.;i max;z maks.
+Search the world's information including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.;Doorzoek de informatie van de wereld, waaronder webpagina's, afbeeldingen, video's en meer. Google heeft veel speciale functies om u te helpen precies te vinden wat u zoekt.;Recherchez les informations du monde entier, y compris les pages Web, les images, les vidéos et plus encore. Google dispose de nombreuses fonctionnalités spéciales pour vous aider à trouver exactement ce que vous recherchez.;Durchsuchen Sie die Informationen der Welt, einschließlich Webseiten, Bilder, Videos und mehr. Google hat viele spezielle Funktionen, die Ihnen helfen, genau das zu finden, wonach Sie suchen.;Sök i hela världens information, inklusive webbsidor, bilder, videor och mycket mer. Google har många specialfunktioner som hjälper dig att hitta precis vad du söker.;Przeszukuj światowe informacje, w tym strony internetowe, obrazy, filmy i inne. Google ma wiele specjalnych funkcji, które pomogą Ci znaleźć dokładnie to, czego szukasz.
+Preview;Voorbeeld;Aperçu;Übersicht;Förhandsgranska;Podgląd
+A preview for the style. You will need to refresh the page (press F5) before the changes to take into effect.;Een voorbeeld van de stijl. U moet de pagina vernieuwen (druk op F5) voordat de wijzigingen van kracht worden.;Un aperçu du style. Vous devrez actualiser la page (en appuyant sur F5) pour que les modifications soient prises en compte.;Eine Vorschau für den Style. Sie müssen die Seite aktualisieren (F5 drücken), damit die Änderungen wirksam werden.;Förevisning av modellen. Uppdatera sidan (tryck på F5) innan ändringarna träder i kraft.;Podgląd stylu. Musisz odświeżyć stronę (naciśnij F5), zanim zmiany zaczną obowiązywać.
+Primary color;Primaire kleur;Couleur primaire;Primäre Farbe;Grundfärg;Kolor podstawowy
+The primary color is the main color that is used within the showroom and EMS.;De primaire kleur is de hoofdkleur die wordt gebruikt binnen de showroom en EMS;La couleur primaire est la couleur principale qui est utilisée dans la salle d'exposition et le SME.;Die Primärfarbe ist die Hauptfarbe, die im Showroom und im EMS verwendet wird.;Grundfärgen är den huvudsakliga färgen som används i showroomet och EMS.;Kolor podstawowy to główny kolor używany w Showroom i EMS
+Accent color;Accent kleur;Couleur d'accentuation;Akzentfarbe;Accentfärg;Kolor wiodący
+The accent color is used to draw the users eye to action areas, such as save buttons.;De accentkleur wordt gebruikt om de gebruiker te wijzen op actiegebieden, zoals knoppen voor opslaan.;La couleur d'accentuation est utilisée pour attirer l'attention des utilisateurs sur les zones d'action, telles que les boutons d'enregistrement.;Die Akzentfarbe wird verwendet, um die Aufmerksamkeit des Benutzers auf Aktionsbereiche, wie z. B. die Schaltflächen zum Speichern, zu lenken.;Accentfärgen används för att dra användarens uppmärksamhet till åtgärdsområden, t.ex. lagringsknappar.;Kolor wiodący służy do przyciągania wzroku użytkownika do obszarów akcji, takich jak przyciski zapisywania.
+Primary font color;Primaire letterkleur;Couleur de police primaire;Primäre Schriftfarbe;Primär teckensnittsfärg;Podstawowy kolor czcionki
+The primary font color is used in combination with the primary color.;De primaire letterkleur wordt gebruikt in combinatie met de primaire kleur.;La couleur de police primaire est utilisée en combinaison avec la couleur primaire.;Die primäre Schriftfarbe wird in Kombination mit der Primärfarbe verwendet.;Den primära teckensnittsfärgen används i kombination med den primära färgen.;Podstawowy kolor czcionki jest używany z połączeniu z kolorem podstawowym.
+Accent font color;Accent lettertype kleur;Couleur de police accentuée;Akzent-Schriftfarbe;Accent teckensnittsfärg;Kolor czcionki akcentującej
+The accent font color is used in combination with the accent color.;De accentletterkleur wordt gebruikt in combinatie met de accentkleur.;La couleur de la police accentuée est utilisée en combinaison avec la couleur accentuée.;Die Akzentschriftfarbe wird in Kombination mit der Akzentfarbe verwendet.;Den accentuerade typsnittsfärgen används i kombination med accentfärgen.;Kolor czcionki akcentującej jest używany w połączeniu z kolorem wiodącym.
+Font;Lettertype;Police;Schriftart;Teckensnitt;Czcionka
+The font is used in the showroom and EMS.;Het lettertype wordt gebruikt in de showroom en EMS.;La police est utilisée dans la salle d'exposition et le SME.;Die Schriftart wird im Showroom und im EMS verwendet.;Teckensnittet används i showroom och EMS.;Czcionka jest używana w showroom i EMS
+Logo;Logo;Logo;Logo;Logotyp;Logo
+The logo is displayed in the top left corner in the showroom.;Het logo staat linksboven in de showroom.;Le logo est affiché dans le coin supérieur gauche de la salle d'exposition.;Das Logo wird in der oberen linken Ecke des Showrooms angezeigt.;Logotypen visas i översta vänstra hörnet i showroomet.;Logo jest wyświetlane w lewym górnym rogu showroom.
+Logo for quotation document & Login page;Logo voor offertedocument & loginpagina;Logo pour le document de devis et la page de connexion;Logo für Angebotsdokument & Login-Seite;Logotyp för offertdokument och inloggningssida.;Logo dla dokumentu oferty & strony logowania
+Upload a logo here, which will be available in the quotation template XML. This will also be used on the login page;Upload hier een logo, dat beschikbaar zal zijn in de offertesjabloon XML. Deze wordt ook gebruikt op de inlogpagina;Téléchargez un logo ici, qui sera disponible dans le modèle de devis XML. Il sera également utilisé sur la page de connexion;Laden Sie hier ein Logo hoch, das in der XML-Angebotsvorlage verfügbar sein wird. Dieses wird auch auf der Login-Seite verwendet.;Ladda upp en logotyp här, som kommer att finnas tillgänglig i XML-mallen för offertmallen. Den kommer också att användas på inloggningssidan.;Prześlij tutaj logo, które będzie dostępne w szablonie oferty XML. Będzie to również używane na stronie logowania.
+Favicon;Favicon;Favicon;Favicon;Favicon;Favicon
+A favicon is small icon that is displayed in the browser tab, and as icon when the page is saved as a bookmark.;Een favicon is een klein pictogram dat wordt weergegeven op het browsertabblad en als pictogram wanneer de pagina wordt opgeslagen als bladwijzer.;Une favicon est une petite icône qui s'affiche dans l'onglet du navigateur, et comme icône lorsque la page est enregistrée comme signet.;Ein Favicon ist ein kleines Symbol, das in der Browserleiste angezeigt wird und als Symbol erscheint, wenn die Seite als Lesezeichen gespeichert wird.;En favicon är en liten ikon som visas i webbläsarens flik och när en sidan sparas som bokmärke.;Favicon to mała ikona, która jest wyświetlana na karcie przeglądarki i jako ikona, gdy strona jest zapisywana jako zakładka.
+Dashboard background;Dashboard achtergrond;Fond du tableau de bord;Dashboard-Hintergrund;Bakgrund för kontrollpanelen;Tło puplitu nawigacyjnego
+The dashboard image is shown in the header on the dashboard page in the EMS.;De dashboardafbeelding wordt weergegeven in de koptekst op de dashboardpagina in het EMS.;L'image du tableau de bord est affichée dans l'en-tête de la page du tableau de bord dans l'EMS.;Das Dashboard-Bild wird in der Überschrift auf der Dashboard-Seite im EMS angezeigt.;Bilden av kontrollpanelen visas i rubriken på kontrollpanelsidan i EMS.;Obraz pulpitu nawigacyzjnego jest wyświetlany na nagłówku na stronie pulpitu nawigacyjnego w pakiecie EMS.
+Login background image;Login achtergrondafbeelding;Image d'arrière-plan de la connexion;Login-Hintergrundbild;Bakgrundsbild för inloggning;Obraz tła logowania
+Background image which is displayed at the login page.;Achtergrondafbeelding die wordt weergegeven op de inlogpagina.;Image d'arrière-plan qui s'affiche sur la page de connexion.;Hintergrundbild, das auf der Login-Seite gezeigt wird.;Bakgrundsbild som visas på inloggningssidan.;Obraz tła, który jest wyświetlany na stronie logowania
+Custom CSS (showroom);Custom CSS (showroom);CSS personnalisé (showroom);Custom CSS (Showroom);Anpassad CSS (showroom);Niestandardowy CSS (showroom)
+Add your own custom CSS to configure the layout of the showroom to your style.;Voeg  eigen aangepaste CSS toe om de lay-out van de showroom aan je stijl aan te passen.;Ajoutez votre propre CSS personnalisé pour configurer la mise en page de la salle d'exposition selon votre style.;Fügen Sie Ihr eigenes Custom CSS hinzu, um das Layout des Showrooms nach Ihren Vorstellungen zu gestalten.;Lägg till din egen anpassade CSS för att konfigurera layouten i showroomet.;Dodaj własny CSS, aby skonfigurować układ showroom do twojego stylu.
+Custom CSS (EMS);Custom CSS (EMS);CSS personnalisé (EMS);Custom CSS (EMS);Anpassad CSS (EMS);Niestandardowy CSS (EMS)
+There is a very low contrast ratio between the text/background color!;Er is een zeer lage contrastverhouding tussen de tekst / achtergrondkleur!;Le rapport de contraste entre le texte et la couleur d'arrière-plan est très faible !;Es gibt ein sehr geringes Kontrastverhältnis zwischen Text und Hintergrundfarbe!;Kontrastförhållandet mellan text/bakgrundsfärg är lågt!;Istnieje bardzo niski współczynnik kontrastu między tekstem a kolorem tła!
+Add your own custom CSS to configure the layout of the EMS to your style.;Voeg uw eigen aangepaste CSS toe om de lay-out van het EMS naar uw stijl te configureren.;Ajoutez votre propre CSS personnalisé pour configurer la mise en page de l'EMS selon votre style.;Fügen Sie Ihr eigenes Custom CSS hinzu, um das Layout des EMS an Ihren Stil anzupassen.;Lägg till din egen anpassade CSS för att konfigurera layouten för EMS.;Dodaj własny CSS, aby skonfigurować układ EMS do twojego stylu.
+Enable showroom;Showroom toestaan;Activer le showroom;Showroom erlauben;Aktivera showroom;Włącz showroom
+Enable this to make the showroom accessible.;Zet dit aan om de showroom te activeren;Activez cette option pour rendre le showroom accessible.;Aktivieren Sie dies, um den Showroom zugänglich zu machen;Slå på knappen för att göra showroomet tillgängligt.;Włącz to aby showroom był dostępny.
+Require login;Verplichte login;Exiger une connexion;Login verlangen;Kräver inloggning;Wymagaj logowania
+Enable a login for the showroom to only allow users with an account.;Zet dit aan om alleen gebruikers met een account toe te staan in de showroom.;Activez une connexion pour le showroom afin de n'autoriser que les utilisateurs possédant un compte.;Aktivieren Sie ein Login für den Showroom, um nur Benutzer mit einem Konto zuzulassen.;Aktivera en inloggning för showroomet för att endast tillåta användare med ett konto.;Włącz logowanie do showroom, aby zezwolić tylko użytkownikom z kontem.
+Checkout;Afrekenen;Vérifier;Zur Kasse;Checkout;Kontrola
+Configure what is shown on the checkout page when a logged in user creates a quotation.;Configureer wat wordt weergegeven op de afrekenpagina wanneer een ingelogde gebruiker een offerte maakt.;Configurez ce qui s'affiche sur la page de paiement lorsqu'un utilisateur connecté crée un devis.;Konfigurieren Sie, was auf der Checkout-Seite angezeigt wird, wenn ein angemeldeter Benutzer ein Angebot erstellt.;Konfigurera vad som visas på checkout-sidan när en inloggad användare skapar en offert.;Skonfiguruj to, co jest wyświetlane na stronie realizacji zakupu, gdy zalogowany użytkownik tworzy ofertę.
+These settings do not apply to sub-organizations. Sub-organizations have their own settings.;Deze instellingen zijn niet van toepassing op suborganisaties. Suborganisaties hebben hun eigen instellingen.;Ces paramètres ne s'appliquent pas aux sous-organisations. Les sous-organisations ont leurs propres paramètres.;Diese Einstellungen gelten nicht für Sub-Organisationen. Sub-Organisationen haben ihre eigenen Einstellungen.;Inställningar gäller inte för suborganisationer. Suborganisationer har sina egna inställningar.;Te ustawienia nie mają zastosowania do firmy zależnych. Firmy zależne mają swoje własne ustawienia.
+Shipping address;Afleveradres;Adresse de livraison;Lieferadresse;Leveransadress;Adres wysyłki
+Quotation;Offerte;Devis;Angebot;Offert;Offerta
+Enable multiple configurations;Meerdere configuraties toestaan;Activer plusieurs configurations;Mehrere Konfigurationen zulassen;Aktivera flera konfigurationer;Włączenie wielu konfigracji.
+Enable multiple configurations at the same time in the showroom.;Sta meerdere configuraties tegelijk toe in de showroom.;Activez plusieurs configurations en même temps dans le showroom.;Mehrere Konfigurationen können gleichzeitig im Showroom eingestellt werden.;Aktivera flera konfigurationer samtidigt i showroomet.;Włącz wiele konfiguracji jednocześnie w showroom
+Enable different ship to address;Afwijkend afleveradres toestaan;Activer une adresse de livraison différente;Verschiedene Lieferadressen zulassen;Aktivera olika leveransadresser;Włączenie różnych adresów wysyłki.
+Showroom address(es);Showroom adressen;Adresse(s) du showroom;Adresse(n) des Showrooms;Adress(er) till showroom;Adres/y showroom/ów
+Add more endpoints to gain access to the showroom for the specified URL. Requires DNS settings at the domain registrar.;Voeg meer domeinen toe om toegang te krijgen tot de showroom voor de opgegeven URL. Vereist DNS-instellingen bij de domeinregistreerder.;Ajoutez des points d'extrémité supplémentaires pour accéder au showroom pour l'URL spécifiée. Nécessite des paramètres DNS chez le registraire de domaine.;Fügen Sie weitere Endpunkte hinzu, um für die angegebene URL Zugang zum Showroom zu erhalten. Erfordert DNS-Einstellungen bei der Domänenregistrierungsstelle.;Lägg till fler ändpunkter för att få tillgång till showroomet för den angivna URL:en. Kräver DNS-inställningar hos domänregistreraren.;Dodaj więcej punktów końcowych, aby uzyskać dostęp do showroom dla określonego adresu URL. Wymaga ustawień DNS u rejestratora domen.
+Domain name;Domein naam;Nom de domaine;Domain-Name;Domännamn;Nazwa domeny
+Organization(s);Organisatie(s);Organisation(s);Organisation(en);Organisation(er);Organizacja/e
+Receive configuration e-mail;Configuratie e-mail ontvangen;Recevoir un e-mail de configuration;Konfigurations-E-Mail erhalten;Ta emot e-post för konfiguration;Odbierz mail konfiguracyjny
+When a quotation is requested in the showroom, a copy of the configuration will be send to this mail address.;Bij een offerte aanvraag in de showroom wordt een kopie van de configuratie naar dit mailadres gestuurd.;Lorsqu'un devis est demandé dans le showroom, une copie de la configuration est envoyée à cette adresse e-mail.;Wenn ein Angebot im Showroom angefordert wird, wird eine Kopie der Konfiguration an diese E-Mail-Adresse gesendet.;När en offert begärs i showroomet skickas en kopia av konfigurationen till den här e-postadressen.;Gdy potrzebna jest oferta w showroom, kopia konfiguracji zostanie wysłana na ten adres email.
+Quotation requested action;Offerte aanvraag actie;Action de demande de devis;Angebot angefragt Aktion;Åtgärd för begärd offert;Akcja żądania oferty
+Select an action that occurs when a quotation is requested.;Selecteer een actie die plaatsvindt wanneer een offerte wordt aangevraagd.;Sélectionnez une action qui se produit lorsqu'un devis est demandé.;Wählen Sie eine Aktion aus, die ausgeführt wird, wenn ein Angebot angefordert wird.;Välj en åtgärd som vidtas när en offert begärs.;Wybierz akcję, która ma być wykonywana podczas żadania oferty.
+Require offered to;Vereist aangeboden aan;Obligation offerte à;Aufforderung zur Angebotsabgabe;Kräver att erbjudandet ska;Wymagaj oferty do
+Require the user to fill in his contact details when requesting a quotation.;Vereisen dat de gebruiker zijn contactgegevens invult bij het aanvragen van een offerte.;Demandez à l'utilisateur de remplir ses coordonnées lorsqu'il demande un devis.;Der Benutzer wird aufgefordert, seine Kontaktdaten einzugeben, wenn er ein Angebot anfordert.;Kräver att användaren fyller i sina kontaktuppgifter när han eller hon begär en offert.;Wymagaj od użytkownika podania swoich danych kontaktowych podczas składania zapytania o ofertę.
+Submit e-mail to customer;Verzend e-mail naar klant;Envoyer un e-mail au client;E-Mail an den Kunden senden;Skicka e-post till kunden;Wyślij email do klienta
+Send a confirmation e-mail to the customer when a quotation is requested.;Stuur een bevestigingsmail naar de klant wanneer een offerte wordt aangevraagd.;Envoyez un e-mail de confirmation au client lorsqu'un devis est demandé.;Senden Sie eine Bestätigungs-E-Mail an den Kunden, wenn ein Angebot angefordert wird.;Skicka ett bekräftelsemail till kunden när en offert begärs.;Wyślij email z potwierdzeniem do klienta, gdy będzie zapytanie o ofertę.
+Attach PDF to e-mail;Voeg PDF toe aan e-mail;Joindre un PDF à un e-mail;PDF an E-Mail anhängen;Bifoga PDF-fil till e-post;Załącz plik PDF do maila
+Attach a PDF to the e-mail, which is send to the customer when a quotation is requested.;Voeg een PDF toe aan de e-mail, die naar de klant wordt gestuurd wanneer een offerte wordt aangevraagd.;Joignez un PDF à l'e-mail qui est envoyé au client lorsqu'il demande un devis;Hängen Sie eine PDF an die E-Mail an, die an den Kunden gesendet wird, wenn ein Angebot angefordert wird.;Bifoga en PDF-fil till e-postmeddelandet som skickas till kunden när en offert begärs.;Dołącz PDF do tego maila, który będzie wysłany do klienta, kiedy zapytanie o ofertę będzie złożone.
+Confirmation mail template;Bevestigingsmail template;Modèle de courrier de confirmation;Vorlage für Bestätigungsmail;Mall för bekräftelsemail;Szablon email z potwierdzeniem
+This text is the e-mail that is send to the customer when a quotation is requested.;Deze tekst is de e-mail die naar de klant wordt gestuurd wanneer een offerte wordt aangevraagd.;Ce texte est l'e-mail qui est envoyé au client lorsqu'un devis est demandé.;Dieser Text ist die E-Mail, die an den Kunden gesendet wird, wenn ein Angebot angefordert wird.;Den här texten är det e-postmeddelande som skickas till kunden när en offert begärs.;Ten tekst jest w mailu wysyłanym do klienta, gdy wymagana jest oferta.
+User request quote message;Gebruiker offerte aanvraag bericht;Message de demande de devis de l'utilisateur;Nachricht zur Angebotsanforderung ;Meddelande om användarens begäran om offert;Komunikat z prośbą użytkownika o wycenę
+This text is displayed after the customer has requested a quotation.;Deze tekst wordt weergegeven nadat de klant een offerte heeft aangevraagd.;Ce texte s'affiche après que le client a demandé un devis.;Dieser Text wird angezeigt, nachdem der Kunde ein Angebot angefordert hat.;Den här texten visas när kunden har begärt en offert.;Ten tekst jest wyświetlany po złożeniu przez klienta prośby o ofertę.
+Enable welcome page;Welkomstpagina inschakelen;Activer la page de réception;Begrüßungsseite zulassen;Aktivera välkomstsida;Włącz stronę powitalną
+Enable product selection page;Productkeuzepagina inschakelen;Activer la page de sélection des produits;Produktauswahlseite zulassen;Aktivera sidan för produktval;Włącz stronę wyboru produktu
+Displays a product selection page, in which the user can search and select a product to configure. This option is enabled by default. If this option is disabled, a user will only be able to visit the configurator with a direct URL.;Geeft een productselectiepagina weer waarin de gebruiker kan zoeken en een product kan selecteren om te configureren. Deze optie is standaard ingeschakeld. Als deze optie is uitgeschakeld, kan een gebruiker de configurator alleen bezoeken met een directe URL.;Affiche une page de sélection de produits, dans laquelle l'utilisateur peut rechercher et sélectionner un produit à configurer. Cette option est activée par défaut. Si cette option est désactivée, l'utilisateur ne pourra visiter le configurateur qu'avec une URL directe.;Zeigt eine Produktauswahlseite an, auf der der Benutzer ein zu konfigurierendes Produkt suchen und auswählen kann. Diese Option ist standardmäßig aktiviert. Wenn diese Option deaktiviert ist, kann ein Benutzer den Konfigurator nur über eine direkte URL besuchen.;Visar en produktvalssida där användaren kan söka och välja en produkt som ska konfigureras. Det här alternativet är aktiverat som standard. Om det här alternativet är inaktiverat kan en användare endast besöka konfiguratorn med en direkt URL.;Wyświetla stronę wyboru produktu, na której użytkownik może wyszukać i wybrać produkt do skonfigurowania. Ta opcja jest domyślnie włączona. Jeśli opcja jest wyłączona, użytkownik będzie mógł odwiedzać konfigurator tylko za pomocą bezpośredniego adresu URL.
+Background image;Achtergrond afbeelding;Image d'arrière-plan;Hintergrundbild;Bakgrundsbild;Obraz tła
+Background image which is displayed in the product selection page.;Achtergrondafbeelding die wordt weergegeven op de productselectiepagina.;Image d'arrière-plan qui s'affiche sur la page de sélection des produits.;Hintergrundbild, das auf der Produktauswahlseite angezeigt wird.;Bakgrundsbild som visas på produktvalssidan.;Obraz tła, który jest wyświetlany na stronie wyboru produktu.
+Map 3D items to nodes;Wijs 3D-items toe aan nodes;Affecter les éléments 3D aux nœuds;3D-Artikel zu 'Nodes' zuweisen;Mappa 3D-objekt till noder;Mapowanie elementów 3D na karty
+Display after checkout;Tonen na afrekenpagina;Afficher après le passage à la caisse;Display nach dem Checkout;Visas efter utcheckning;Wyświetl po kontroli
+Redirect to url;Omleiden naar url;Redirection vers l'URL;Weiterleitung zur Url;Omdirigera till url;Przekieruj na adres url
+Adds a welcome page, which the user will see first, when visiting the showroom.;Voegt een welkomstpagina toe, die de gebruiker als eerste te zien krijgt bij een bezoek aan de showroom.;Ajoute une page de bienvenue, que l'utilisateur verra en premier, lorsqu'il visitera la salle d'exposition.;Fügt eine Begrüßungsseite hinzu, die der Benutzer als erstes sieht, wenn er den Showroom besucht.;Lägg till en välkomstsida som användaren ser först när han eller hon besöker utställningslokalen.;Dodaje stronę powitalną, który użytkownik zobaczy jako pierwszą, odwiedzając showroom.
+By disabling this setting, you will be able to map 3D objects to Features, instead of 'nodes' in the configuration model. Feature 3D mappings (setting disabled) are global, meaning they will be shared between multiple configuration models. This can be used to save setup and maintenance work. Node 3D mappings (setting enabled) are specific to a configuration model.;Door deze instelling uit te schakelen, kun je 3D objecten aan Features koppelen, in plaats van aan 'nodes' in een configuratiemodel. 3D koppelingen op Feature niveau (instelling uit) zijn globaal van aard, wat betekent dat ze tussen meerdere configuratiemodellen worden gedeeld. Dit kan worden gebruikt om instel- en onderhoudstijd te besparen. 3D koppelingen op node niveau (instelling aan) zijn specifiek voor een configuratiemodel.;En désactivant ce paramètre, vous pourrez associer des objets 3D à des fonctionnalités, au lieu de ""nœuds"" dans le modèle de configuration. Les mappages 3D des fonctionnalités (paramètre désactivé) sont globaux, ce qui signifie qu'ils seront partagés entre plusieurs modèles de configuration. Cela peut être utilisé pour économiser le travail de configuration et de maintenance. Les mappages 3D des nœuds (paramètre activé) sont spécifiques à un modèle de configuration.;Wenn Sie diese Einstellung deaktivieren, können Sie 3D-Objekte im Konfigurationsmodell Features statt "" Nodes "" zuordnen. Feature-3D-Zuordnungen (Einstellung deaktiviert) sind global, d. h. sie werden von mehreren Konfigurationsmodellen gemeinsam genutzt. Dies kann genutzt werden, um Einrichtungs- und Wartungsarbeiten zu sparen. Nodes-3D-Zuordnungen (Einstellung aktiviert) sind spezifisch für ein Konfigurationsmodell.;Om du inaktiverar den här inställningen kan du mappa 3D-objekt till funktioner i stället för ""noder"" i konfigurationsmodellen. 3D-mappningar av funktioner (inställningen är inaktiverad) är globala, vilket innebär att de delas mellan flera konfigurationsmodeller. Detta kan användas för att spara installations- och underhållsarbete. 3D-mappningar för noder (inställningen är aktiverad) är specifika för en konfigurationsmodell.;Wyłączenie tego ustawienia umożliwia mapowanie obiektów 3D na obiekty zamiast na ""karty"" w modelu konfiguracji. Mapowania 3D operacji (ustawienie wyłączone) mają charakter globalny, co oznacza, że będą współużytkowane przez wiele modeli konfiguracji. Można go użyć do zaoszczędzenia prac konfiguracyjnych i konserwacyjnych. Mapowania kart 3D (ustawienie włączone) są specyficzne dla modelu konfiguracji.
+quotation;offerte;devis;Angebot;Offert;oferta
+Quotation number that is used as reference, this is incremented by one for each quotation that is generated.;Offertenummer dat als referentie wordt gebruikt, dit wordt met één verhoogd voor elk offerte die wordt gegenereerd.;Numéro de devis utilisé comme référence, il est incrémenté de un pour chaque devis généré.;Angebotsnummer, die als Referenz verwendet wird. Sie wird für jedes erstellte Angebot um eins erhöht.;Offertnummer som används som referens, detta ökas med ett för varje offert som genereras.;Numer oferty, który jest używany jako odniesienie i jest zwiększany o jeden dla każdej wygenerowanej oferty
+Next number;Volgende nummer;Numéro suivant;Nächste Nummer;Följande nummer;Następny numer
+Reset period;Reset periode;Période de réinitialisation;Periode zurücksetzen;Återställningsperiod;Okres restowania
+Daily;Dagelijks;Quotidiennement;Täglich;Dagligen;Codzienny
+Monthly;Maandelijks;Mensuel;Monatlich;Månadsvis;Miesięczny
+Yearly;Jaarlijks;Annuel;Jährlich;Årligen;Roczny
+Expire time (days);Verlooptijd (dagen);Période d'expiration (Jours);Verfallszeit (Tage);Förfallodag (dagar);Termin ważności (dni)
+Amount of days that a submitted quotation is valid. If this timespan has been passed, the status of the quotation is automatically set to expired.;Aantal dagen dat een ingediende offerte geldig is. Indien deze termijn is verstreken, wordt de status van de offerte automatisch op verlopen gezet.;Nombre de jours de validité d'un devis soumis. Si ce délai est dépassé, le statut de l'offre est automatiquement défini comme étant expiré.;Anzahl der Tage, die ein abgegebenes Angebot gültig ist. Wenn diese Zeitspanne überschritten ist, wird der Status des Angebots automatisch auf "" verfallen"" gesetzt.;Antal dagar som en inskickad offert är giltig. Om tidsperioden har gått ut sätts automatiskt statusen för offerten till ""upphörd"".;Liczba dni, w których przesłana oferta jest ważna. Jeśli ten przedział czasowy został przekroczony, status oferty jest automatycznie ustawiany na wygasły.
+Hide quotation discounts;Verberg offerte kortingen;Masquer les remises sur le devis;Angebotsrabatte verbergen;Dölja rabatter på offerter;Ukryj rabat oferty
+Enable this if you want to hide the discount options on the quotations screen.;Schakel dit in als u de kortingsopties op het offertescherm wilt verbergen.;Activez cette option si vous souhaitez masquer les options de remise sur l'écran de devis.;Aktivieren Sie diese Option, wenn Sie die Rabattoptionen auf dem Angebotsbildschirm verbergen möchten.;Slå på knappen om du vill dölja rabattalternativen på offertskärmen.;Włącz tę opcję, jeśli chcesz ukryć opcje rabatu na ekranie oferty.
+Disable full seller overview;Volledig verkoper overzicht uitschakelen;Désactiver l'aperçu complet du vendeur;Vollständige Verkäuferübersicht nicht anzeigen;Inaktivera fullständig översikt över säljaren;Wyłącz podgląd dla pełnego sprzedawcy
+Enable this if you want sellers to only be able to view their own quotations;Schakel dit in als u wilt dat verkopers alleen hun eigen offertes kunnen bekijken;Activez cette option si vous souhaitez que les vendeurs ne puissent consulter que leurs propres devis.;Aktivieren Sie diese Option, wenn Sie möchten, dass Verkäufer nur ihre eigenen Angebote sehen können.;Slå på knappen om du vill att säljare endast ska kunna se sina egna offerter.;Włącz tę opcję, jeśli chcesz, aby sprzedawcy mogli wyświetlać tylko własne oferty
+Email subject;Email onderwerp;Objet de l'e-mail;E-Mail-Betreff;E-postämne;Temat emailu
+This value will be the subject of an email sent from a quotation.;Deze waarde zal het onderwerp zijn van een e-mail die vanuit een offerte is verzonden.;Cette valeur sera l'objet de l'e-mail envoyé à partir d'un devis.;Dieser Wert ist der Betreff einer E-Mail, die von einem Angebot aus gesendet wird.;Det här värdet kommer att vara ämnet för ett e-postmeddelande som skickas från en offert.;Ta wartość będzie przedmiotem wiadomości e-mail wysłanej z oferty.
+Quotation header fields;Offerte header velden;Champs d'en-tête du devis;Angebotskopf-Felder;Huvudfält för offerter;Pole nagłówka oferty
+Configure which quotation fields should be required, disabled or hidden;Configureer welke offertevelden vereist, uitgeschakeld of verborgen moeten zijn;Configurez les champs de devis qui doivent être obligatoires, désactivés ou masqués.;Konfigurieren Sie, welche Angebotsfelder benötigt, deaktiviert oder verborgen werden sollen.;Konfigurera obligatoriska fält för offerter;Skonfiguruj, które pola oferty mają być wymagane, wyłączone lub ukryte
+Note: disabled and hidden only apply to sellers;Opmerking: uitgeschakeld en verborgen zijn alleen van toepassing op verkopers;Remarque : les champs désactivés et masqués ne s'appliquent qu'aux vendeurs.;Hinweis: Deaktiviert und verborgen gelten nur für Verkäufer;Observera: Inaktiverade och dolda fält gäller endast för säljare.;Uwaga: wyłączone i ukryte dotyczą tylko sprzedających
+Field;Veld;Champ;Feld;Fält;Pole
+Action;Actie;Action;Aktion;Åtgärder;Akcja
+Required;Vereist;Obligatoire;Benötigt;Obligatoriskt;Wymagane
+Disabled;Uitgeschakeld;Désactivé;Deaktiviert;Inaktiverat;Wyłączony
+Hidden;Verborgen;Masqué;Unsichtbar;Dolda;Ukryty
+Required contacts fields;Verplichte contact velden;Champs obligatoires pour les contacts;Benötigte Kontaktfelder;Obligatoriska kontaktfält;Wymagane pola kontaktów
+Make sure that certain fields for contacts, such as the address, must be filled in.;Zorg ervoor dat bepaalde velden voor contacten, zoals het adres, moeten worden ingevuld.;Assurez-vous que certains champs pour les contacts, tels que l'adresse, doivent être remplis.;Stellen Sie sicher, dass bestimmte Felder für Kontakte, wie z. B. die Adresse, ausgefüllt werden müssen.;Se till att vissa kontaktfält, t.ex. adressen, måste fyllas i.;Upewnij się, że niektóre pola kontaktów, takie jak adres, muszą być wypełnione.
+Allowed quotation actions;Toegestane offerte acties;Actions de devis autorisées;Erlaubte Angebotsaktionen;Tillåtna offertåtgärder;Dozwolone akcje ofertowania
+Allowed seller quotation actions;Toegestane offerte verkoper acties;Actions de devis autorisées pour les vendeurs;Erlaubte Angebotsaktionen für Verkäufer;Tillåtna åtgärder för säljarens offerter;Pozwala sprzedawcy na akcje ofertowania
+Configure which quotation actions can be used per status.;Configureer welke offerte acties per status gebruikt kunnen worden.;Configurez les actions de cotation qui peuvent être utilisées par statut.;Konfigurieren Sie, welche Angebotsaktionen pro Status verwendet werden können.;Konfigurera vilka offertåtgärder som kan användas per status.;Konfigurowanie akcji oferty, które mogą być używane dla danego stanu.
+Concept;Concept;Concept;Konzept;Koncept;Pojęcie
+Submitted;Ingediend;Soumis;Gesendet;Inskickat;Przekazane
+Accepted;Geaccepteerd;Accepté;Angenommen;Godkänd;Zaakceptowane
+Declined;Afgewezen;Refusé;Abgelehnt;Avslaget;Odrzucone
+Debtor;Klant;Débiteur;Debitoren;Debitor;Dłużnik
+Expired;Verlopen;Expiré;Verfallen;Utgått;Wygasłe
+Revised;Herzien;Révisé;Geändert;Reviderad;Zmienione
+Archived;Gearchiveerd;Archivé;Archiviert;Arkiverad;Zaarchiwizowane
+Allowed;Toegestaan;Autorisé;Erlaubt;Godkänd;Dozwolone 
+Configure which quotation actions can be used by sellers.;Configureer welke offerteacties door verkopers kunnen worden gebruikt.;Configurez les actions de devis qui peuvent être utilisées par les vendeurs.;Konfigurieren Sie, welche Angebotsaktionen von Verkäufern verwendet werden können.;Konfigurera vilka offertåtgärder som kan användas av säljare.;Skonfiguruj, które akcje oferty mogą być używane przez sprzedawców.
+Delete lines;Offerteregels verwijderen;Supprimer des lignes;Linien löschen;Radera rader;Usuń linie
+Edit line quantity;Offerteregel aantal wijzigen;Modifier la quantité de lignes;Linienanzahl bearbeiten;Redigera linjekvantiteten;Edytuj ilość linii
+Add line to group;Offerteregel aan groep toevoegen;Ajouter une ligne à un groupe;Linie zur Gruppe hinzufügen;Lägg till rad i grupp;Dodaj linię do grupy
+Change line order;Offerteregel volgorde wijzigen;Modifier l'ordre des lignes;Linienreihenfolge ändern;Ändra linjens ordning;Zmień kolejność lini
+Add configurations;Configuraties toevoegen;Ajouter des configurations;Konfigurationen hinzufügen;Lägg till konfigurationer;Dodaj konfigurację 
+Add features;Features toevoegen;Ajouter des fonctionnalités;Funktionen hinzufügen;Lägg till funktioner;Dodawanie wyposażenia
+Copy configuration;Configuratie kopiëren;Copier la configuration;Konfiguration kopieren;Kopiera konfiguration;Kopiuj konfigurację
+Hide in;Verstoppen in;Cacher dans;Verbergen in;Gömma i;Ukryj
+Overview (showroom);Overzicht (showroom);Vue d'ensemble (showroom);Übersicht (Showroom);Översikt (utställningsrum);Podgląd (showroom)
+Formatted number;Geformatteerde nummer;Numéro formaté;Formatierte Nummer;Formaterat nummer;Sformatowany numer
+Display;Weergave;Afficher;Display  ;Visa;Wyświetl
+Standard;Standaard;Standard;Standard;Standard;Standard
+Card;Kaart;Carte;Karte;Kort;Karta
+Dropdown;Dropdown;Liste déroulante;Dropdown;Dropdown;Lista rozwijana
+Search bar (dialog);Zoekbalk (dialoogvenster);Barre de recherche (dialogue);Suchleiste (Dialog);Sökfält (dialogruta);Pasek wyszukiwania (dialog)
+Search bar (no dialog);Zoekbalk (geen dialoogvenster);Barre de recherche (sans dialogue);Suchleiste (kein Dialog);Sökfält (utan dialog);Pasek wyszukiwania (bez dialog)
+Table row;Tabel rij;Ligne de table;Tabellenzeile;Tabellrad;Wiersz tabeli
+Search bar pop-up;Zoekbalk pop-up;Barre de recherche dans la page;Pop-up-Suchleiste;Popup-fönster i sökfältet;Pop-up paska wyszukiwania
+Search bar in page;Zoekbalk op pagina;Barre de recherche dans la page;Suchleifste auf der Seite;Sökfält på sidan;Pasek wyszukiwania na stronie
+Desired columns;Gewenste kolommen;Colonnes souhaitées;Gewünschte Kolonnen;Önskade kolumner;żądane kolumny
+Default Value;Standaardwaarde;Valeur par défaut;Standardwert;Standardvärde;Wartość domyślna
+Max value;Maximum waarde;Valeur maximale;Maximaler Wert;Maxvärde;Wartość maksymalna
+Quotation Number;Offerte nummer;Numéro du devis;Angebotsnummer;Nummer på offert;Numer Oferty
+Assign formula;Formule toewijzen;Attribuer une formule;Formel zuweisen;Tilldela formel;Przypisz formułę
+Edit formula;Formule bewerken;Modifier la formule;Formel bearbeiten;Redigera formeln;Edytuj formułę
+Remove formula;Formule verwijderen;Supprimer une formule;Formel entfernen;Ta bort formeln;Usuń formułę
+Quotation number;Offerte nummer;Numéro de cotation;Angebotsnummer;Offertnummer;Numer oferty
+Is mandatory;Is verplicht;Est obligatoire;Ist obligatorisch;Är obligatorisk;Jest obowiązkowe
+Phantom;Phantom;Phantom;Phantom;Fantom;Fantom
+Create as separate quotation group;Maak als afzonderlijke offertegroep;Créer un groupe distinct pour le devis;Als separate Angebotsgruppe erstellen;Skapa en separat citatgrupp;Utwórz jako oddzielną grupę ofert
+Do not add to;Voeg niet toe aan;Ne pas ajouter à;Nicht hinzufügen zu;Lägg inte till i;Nie dodawaj do
+Combine into one quotation group;Combineer in één offertegroep;Combiner en un seul groupe de devis;Zu einer Angebotsgruppe zusammenfassen;Kombinera till en offertgrupp;Łączenie w jedną grupę ofert
+Visualize line;Visualiseer regel;Visualiser la ligne;Visualisierung der Linie;Visualisera linje;Wizualizacja linii
+Add required;Vereist toevoegen;Ajouter obligatoire;Notwendige hinzufügen;Lägg till krävs;Dodaj wymagane
+Add excludes;Voeg uitsluitingen toe;Ajouter des exclusions;Ausschlüsse hinzufügen;Lägg till undantag;Dodaj wykluczenia
+Add advanced formula;Voeg geavanceerde formule toe;Ajouter une formule avancée;Erweiterte Formel hinzufügen;Lägg till avancerade formler;Dodaj zaawansowaną formułę
+Add new formula;Voeg een nieuwe formule toe;Ajouter une nouvelle formule;Neue Formel hinzufügen;Lägg till en ny formel;Dodaj nową formułę
+Add New Condition;Nieuwe voorwaarde toevoegen;Ajouter une nouvelle condition;Neue Bedingung hinzufügen;Lägg till nytt krav;Dodaj nowe warunki
+Unselectable feature;Niet-selecteerbare feature;Caractéristique non sélectionnable;Nicht auswählbares Funktion;Ej valbar funktion;Niewybieralne wyposażenie
+Relationship(s) causing feature to be unselectable;Relatie (s) waardoor de feature niet te selecteren is;Relation(s) à l'origine de la non-sélection de l'élément.;Beziehung(en), die dazu führen, dass das Funktion nicht auswählbar ist;Relation(er) som gör att funktionen inte kan väljas;Relacja/e, która/e powoduje/ą, że nie można wybrać obiektu
+No broken relationships detected.;Geen defecte relaties gedetecteerd.;Aucune relation brisée n'a été détectée.;Keine defekten Beziehungen entdeckt.;Det finns inga brutna relationer.;Nie wykryto zerwanych relacji
+Broken default feature;Defecte standaard feature;Fonctionnalité par défaut cassée;Defektes Standard-Feature;Bristande standardfunktion;Uszkodzone wyposażenie domyślne
+Relationship(s) causing feature to turn off by default;Relatie (s) waardoor de feature standaard wordt uitgeschakeld;Relation(s) causant la désactivation de la fonctionnalité par défaut;Beziehung(en), die dazu führen, dass das Funktion standardmäßig deaktiviert ist;Relation(er) som gör att funktionen är avstängd som standard.;Relacja/e, która/e powoduje/ą domyślne wyłączenie wyposażenia
+Last error occurrence;Laatste fout opgetreden;Dernière erreur survenue;Letztes Fehlerereignis;Senaste feltillfället;Wystąpienie ostatniego błędu
+Last selected feature;Laatst geselecteerde feature;Dernière caractéristique sélectionnée;Zuletzt ausgewähltes Funktion;Senast valda funktion;Ostatnio wybrany element
+Selected feature value;Geselecteerde feature waarde;Valeur de la caractéristique sélectionnée;Ausgewählter Funktionswert;Valda funktionens värde;Wartość wybranego elementu
+Error occurred;Fout opgetreden;Erreur survenue;Fehler aufgetreten;Fel inträffade;Wystąpił błąd
+Error still valid;Fout nog steeds geldig;Erreur toujours valide;Fehler noch gültig;Felet är fortfarande giltigt;Błąd nadal aktywny
+Feature causing error;Feature die fout veroorzaakt;Caractéristique à l'origine de l'erreur;Fehlerverursachendes Feature;Funktion som orsakar felet;Element powodujący błąd
+Relationship(s) causing error;Relatie(s) die fout veroorzaken;Relation(s) à l'origine de l'erreur;Fehlerverursachende Beziehung(en);Relation(er) som orsakar felet;Relacja/e powodująca/e błąd
+Delete all invalid errors;Verwijder alle ongeldige fouten;Supprimer toutes les erreurs non valides;Alle ungültigen Fehler löschen;Ta bort alla ogiltiga fel;Usuń wszystkie nieprawidłowe błędy
+The relationship type that will be assigned to the dynamic group's children.;Het relatietype dat wordt toegewezen aan de kinderen van de dynamische groep.;Le type de relation qui sera attribué aux enfants du groupe dynamique.;Der Beziehungstyp, der den Kindern der dynamischen Gruppe zugewiesen wird.;Den relationstyp som kommer att tilldelas den dynamiska gruppens barn.;Typ relacji, który zostanie przypisany do elementów podrzędnych grupy dynamicznej
+Visibility;Zichtbaarheid;Visibilité;Sichtbarkeit;Synlighet;Widoczność
+Determines in which context the dynamic group's children should be hidden.;Bepaalt in welke context de kinderen van de dynamische groep verborgen moeten worden.;Détermine dans quel contexte les enfants du groupe dynamique doivent être masqués.;Legt fest, in welchem Kontext die Kinder der dynamischen Gruppe verborgen werden sollen.;Bestämmer i vilket sammanhang den dynamiska gruppens barn ska döljas.;Określa, w którym kontekście elementy podrzędne grupy dynamicznej powinny być ukryte
+Hide in overview (showroom);Verberg in overzicht (showroom);Masquer dans la vue d'ensemble (showroom);In der Übersicht verbergen (Showroom);Döljs i översikten (showroom);Ukryj w podglądzie (showroom)
+Features who's properties conform to these filters will be displayed as part of this group.;Features waarvan de eigenschappen voldoen aan deze filters, worden weergegeven als onderdeel van deze groep.;Les caractéristiques dont les propriétés sont conformes à ces filtres seront affichées comme faisant partie de ce groupe.;Funktionen, deren Eigenschaften mit diesen Filtern übereinstimmen, werden als Teil dieser Gruppe angezeigt.;Funktioner vars egenskaper stämmer överens med dessa filter kommer att visas som en del av den här gruppen.;Obiekty, których właściwości są zgodne z tymi filtrami, będą wyświetlane jako część tej grupy.
+Select feature value;Selecteer feature waarde;Valeur sélectionnée de la caractéristique;Funktionswert auswählen;Välj funktionens värde;Wybierz wartość obiektu
+selected value of;geselecteerde waarde van;valeur sélectionnée de;ausgewählter Wert von;Utvalt värde av;wybrana wartość
+user selected;gebruiker geselecteerd;utilisateur sélectionné;Benutzer ausgewählt;Användaren vald;wybrany użytkownik
+Determines in which order the dynamic group's children should be ordered.;Bepaalt in welke volgorde de kinderen van de dynamische groep moeten worden gerangschikt.;Détermine l'ordre dans lequel les enfants du groupe dynamique doivent être classés.;Legt fest, in welcher Reihenfolge die Kinder der dynamischen Gruppe geordnet werden sollen.;Bestämmer i vilken ordning den dynamiska gruppens barn ska ordnas.;Określa, w jakiej kolejności powinny być uporządkowane elementy podrzędne grupy dynamicznej 
+Order by price;Sorteer op prijs;Ordre par prix;Sortierung nach Preis;Sortera efter pris;Uporządkuj wg ceny
+Order by property value;Sorteer op eigenschap waarde;Ordre par la valeur de la propriété;Sortierung nach Eigenschaftswert;Sortera efter egenskapens värde;Uporządkuj wg wartości
+Order by None;Sorteer op niks;Ordre par aucun;Sortierung nach Keine;Sortera efter Ingen;Uporządkuj wg niczego
+Version;Versie;Version;Version;Version;Wersja
+Ratio;Ratio;Ratio;Verhältnis;Proportion;Współczynnik
+Plus;Plus;Plus;Plus;Plus;Plus
+Constant;Constante;Constant;Konstante;Konstant;Stały
+From value;Van value;De la valeur;Von Wert;Från värde;Od wartości
+To value;Naar value;Vers la valeur;Bist Wert;Till värde;Do wartości
+For every;Voor elke;Pour chaque;Für jeden;För varje;Dla każdego
+If;Als;Si;Wenn;Om;Jeśli
+single;enkel;Uniquement;einzeln;enstaka;pojedynczy
+Work in published model;Werk in gepubliceerd model;Modèle de travail publié;Arbeit im publizierten Modell;Arbete i publicerad modell;Praca w opublikowanym modelu
+display options;weergaveopties;options d'affichage;Display-Optionen;visningsalternativ;wyświetl opcje
+equals;is gelijk aan;égale;ist gleich;är lika med;równa się
+Variables;Variabelen;Variables;Variablen;Variabler;Zmienne
+Formula editor;Formule-editor;Éditeur de formules;Formel-editor;Redaktör för formler;Edytor formuły
+for;voor;pour;für  ;för;dla
+Tag;Tag;Balise;Tag;Tag;Tag
+Children;Kinderen;Enfants;Kinder;Barn;Dzieci
+Property;Eigenschap;Propriété;Eigenschaft;Egenskap;Własność
+Inclusion rule;Inclusieregel;Règle d'inclusion;Einbeziehungsregel;Regel för inkludering;Reguła włączenia
+Sales price;Verkoopprijs;Prix de vente;Verkaufspreis;Säljpris;Cena sprzedaży
+Property * value;Eigenschap * waarde;Propriété * valeur;Eigenschaft * Wert;Egendom * värde;Wartość nieruchomości*
+Add variable;Variabele toevoegen;Ajouter une variable;Variable hinzufügen;Lägg till variabel;Dodaj zmienne
+More Info;Meer informatie;Plus d'informations;Mehr Infos;Mer information;Więcej informacji
+Feature description;Feature omschrijving;Description de la fonctionnalité;Beschreibung der Funktion;Beskrivning av funktionen;Opis wyposażenia
+Allowed to sell;Toegestaan om te verkopen;Autorisé à vendre;Erlauft zu verkaufen;Tillåtet att sälja;Dozwolone do sprzedaży
+Organizations allowed to sell;Organisaties mogen verkopen;Organisations autorisées à vendre;Organisationen, die verkaufen können;Organisationer som får sälja;Organizacje uprawnione do sprzedaży
+Margin;Marge;Marge;Gewinnspanne;Marginal;Marża
+used for margin calculation;gebruikt voor margeberekening;utilisé pour le calcul de la marge;für die Berechnung der Marge verwendet;Används för marginalberäkning.;używane do obliczeń marży
+Preview in;Preview in;Aperçu dans;Vorschau im;Förhandsgranskning i;Podgląd w
+Preview in showroom;Preview in showroom;Prévisualisation dans le showroom;Vorschau im Showroom;Förhandsgranskning i utställningslokal;Podgląd w showroom
+Preview in order entry;Preview in orderinvoer;Aperçu dans la saisie de la commande;Vorschau in der Auftragseingabe;Förhandsgranskning i orderingången;Podgląd w wejściu do zamówienia
+Preview pending changes in the configuration model.;Bekijk een voorbeeld van in afwachting van wijzigingen in het configuratiemodel.;Prévisualiser les modifications en attente dans le modèle de configuration.;Vorschau der anstehenden Änderungen im Konfigurationsmodell.;Förhandsgranska väntande ändringar i konfigurationsmodellen.;Podgląd oczekujących zmian w modelu konfiguracji
+Preview configurator model;Preview configuratiemodel;Prévisualisation du modèle de configuration;Vorschau des Konfiguratormodells;Förhandsgranskning av konfiguratormodellen;Podgląd modelu konfiguratora
+Visualizing from;Visualiseren van;Visualiser à partir de;Visualisierung von;Visualisering från;Wizualizacja z
+Validate configuration model integrity;Valideer de integriteit van het configuratiemodel;Valider l'intégrité du modèle de configuration;Validierung der Integrität des Konfigurationsmodells;Validera konfigurationsmodellens integritet;Sprawdź integralność modelu konfiguracji
+Validate constraints for startup issues.;Valideer beperkingen voor opstartproblemen.;Valider les contraintes pour les problèmes de démarrage.;Validieren von Beschränkungen für Startup-Probleme.;Validera begränsningar för startproblem.;Sprawdź poprawność ograniczeń dotyczących problemów z uruchamianiem.
+Validate;Valideer;Valider;Validieren  ;Validera;Sprawdź
+Inconsistency history;Inconsistentie geschiedenis;Historique des incohérences;Inkonsistenz-Historie;Historik över inkonsekvenser;Historia niespójności
+Diagnose;Diagnosticeren;Diagnostiquer;Diagnose;Diagnostisera;Zdiagnozuj
+Requirements;Vereisten;Exigences;Anforderungen;Krav;Wymagania
+Node;Node;Nœud;Nodes;Knutpunkt;Karta
+No errors found.;Geen fouten gevonden.;Aucune erreur trouvée.;Keine Fehler gefunden;Inga fel hittades.;Nie znaleziono błędów.
+Errors found.;Fouten gevonden.;Erreurs trouvées.;Fehler gefunden;Fel hittades.;Znaleziono błędy.
+One or more errors found in the configuration model.;Een of meer fouten gevonden in het configuratiemodel.;Une ou plusieurs erreurs ont été trouvées dans le modèle de configuration.;Ein oder mehrere Fehler im Konfigurationsmodell gefunden.;Ett eller flera fel har hittats i konfigurationsmodellen.;Co najmniej jeden błąd znaleziony w modelu konfiguracji.
+The errors can be resolved by editing or deleting one or more of the following constraints;De fouten kunnen worden opgelost door een of meer van de volgende beperkingen te bewerken of te verwijderen;Les erreurs peuvent être résolues en modifiant ou en supprimant une ou plusieurs des contraintes suivantes;Die Fehler können behoben werden, indem eine oder mehrere der folgenden Beschränkungen bearbeitet oder gelöscht werden;Felen kan lösas genom att redigera eller ta bort en eller flera av följande begränsningar;Błędy można rozwiązać, edytując lub usuwając jedno lub więcej z następujących ograniczeń:
+Conflicting exclude constraints;Conflicterende uitsluitingsbeperkingen;Contraintes d'exclusion en conflit;Widersprüchliche Ausschlussbedingungen;Motstridiga begränsningar för uteslutning.;Sprzeczne ograniczenia wykluczenia
+and;en;et;und;och;i
+Exclude relationship between;Relatie tussen uitsluiten;Relation d'exclusion entre;Ausschlussbeziehung zwischen;Uteslutningsförhållande mellan;Wyklucz relację między
+Conflicting required constraints;Tegenstrijdige vereiste beperkingen;Contraintes obligatoires en conflit;Widersprüchliche erforderliche Beschränkungen;Motstridiga begränsningar för krav;Sprzeczne wymagane ograniczenia
+Required relationship between;Vereiste relatie tussen;Relation d'obligation entre;Erforderliche Beziehung zwischen;Förhållande mellan;Wymagany związek między
+Conflicting condition constraints;Tegenstrijdige voorwaarden;Contraintes de condition contradictoires;Widersprüchliche Bedingungseinschränkungen;Motstridiga villkorskrav;Ograniczenia warunków powodujące konflikt
+Condition on;Conditie op;Condition sur;Bedingung ein;Villkor på;Warunek włączony
+This will publish the configuration model structure.;Dit zal de structuur van het configuratiemodel publiceren.;Cette opération permet de publier la structure du modèle de configuration.;Dadurch wird die Struktur des Konfigurationsmodells publiziert.;Detta kommer att publicera konfigurationsmodellens struktur.;Spowoduje to opublikowanie struktury modelu konfiguracji
+To update changes in the feature master data or steps, publish the same model from the step editor or select 'Publish content'.;Om wijzigingen in de stamgegevens of stappen van de feature bij te werken, publiceert u hetzelfde model vanuit de stappeneditor of selecteert u 'Inhoud publiceren'.;Pour mettre à jour les modifications apportées aux données de base des fonctionnalités ou aux étapes, publiez le même modèle à partir de l'éditeur d'étapes ou sélectionnez ""Publier le contenu"".;Um Änderungen in den Feature-Stammdaten oder Schritten zu aktualisieren, veröffentlichen Sie dasselbe Modell vom Schritteditor aus oder wählen Sie ""Inhalt publizieren"".;Om du vill uppdatera ändringar i funktionens masterdata eller steg publicerar du samma modell från stegredigeraren eller väljer ""Publish content"" (publicera innehåll).;Aby zaktualizować zmiany w danych podstawowych elementu lub krokach, opublikuj ten sam model z edytora kroków lub wybierz opcję ""Opublikuj zawartość"".
+Enter a description;Voer een beschrijving in;Entrez une description;Geben Sie eine Beschreibung ein;Ange en beskrivning;Wprowadź opis
+will be published to;zal worden gepubliceerd op;sera publié pour;wird publiziert für;kommer att publiceras till;zostaną opublikowane we
+all organizations;alle organisaties;toutes les organisations;alle Organisationen;alla organisationer;wszytskich organizacjach
+The configuration model's;Het configuratiemodel is;Le modèle de configuration;Das Konfigurationsmodell's ;Konfigurationsmodellens;Model konfiguracji
+Publish as preview version;Publiceer als voorbeeldversie;Publier comme version de prévisualisation;Als Vorschauversion publizieren;Publicera som förhandsgranskningsversion;Publikuj jako wersję podglądową
+Publish as production version;Publiceer als productieversie;Publier en tant que version de production;Als Produktionsversion publizieren;Publicera som produktionsversion;Publikuj jako wersję produkcyjną
+Conflicting quotations;Conflicterende offertes;Cotations contradictoires;Widersprüchliche Angebote;Motstridiga offerter;Sprzeczne oferty
+Warning! All quotations with status 'concept' will be changed to status 'archived'. Archived quotations can not be edited. However, it is possible to copy the archived quotation.;Waarschuwing! Alle offertes met status 'concept' worden gewijzigd in status 'gearchiveerd'. Gearchiveerde offertes kunnen niet worden bewerkt. Het is echter mogelijk om de gearchiveerde offerte te kopiëren.;Attention ! Toutes les devis avec le statut ""concept"" seront changés en statut ""archivé"". Les devis archivés ne peuvent pas être modifiés. Cependant, il est possible de copier les devis archivée.;Achtung! Alle Angebote mit dem Status ""Konzept"" werden in den Status ""archiviert"" geändert. Archivierte Angebote können nicht bearbeitet werden. Es ist jedoch möglich, das archivierte Angebot zu kopieren.;Varning! Alla offerter med status ""concept"" kommer att ändras till status ""archived"". Arkiverade offerter kan inte redigeras. Det är dock möjligt att kopiera den arkiverade offerten.;Ostrzeżenie! Wszystkie oferty ze statusem ""koncept"" zostaną zmienione na status ""zarchiwizowane"". Zarchiwizowanych ofert nie można edytować. Istnieje jednak możliwość skopiowania zarchiwizowanej oferty.
+Open;Openen;Ouvrir;öffnen;Öppna;Otwórz
+Edit hotspot;Hotspot bewerken;Modifier le hotspot;Hotspot bearbeiten;Redigera hotspot;Edytuj hotspot
+Select feature;Selecteer feature;Sélectionner une fonction;Funktion auswählen;Välj funktion;Wybierz wyposażenie
+No features have been selected. All features will be displayed in this step.;Er zijn geen features geselecteerd. In deze stap worden alle features weergegeven.;Aucune caractéristique n'a été sélectionnée. Toutes les caractéristiques seront affichées dans cette étape.;Es wurden noch keine Funktionen ausgewählt. In diesem Schritt werden alle Funktionen angezeigt.;Inga funktioner har valts. Alla funktioner visas i det här steget.;Nie wybrano żadnych elementów. W tym kroku zostaną wyświetlone wszystkie elementy.
+Add visible feature;Zichtbare feature toevoegen;Ajouter une fonction visible;Sichtbare Funktion hinzufügen;Lägg till synlig funktion;Dodaj widoczny element
+Add feature;Feature toevoegen;Ajouter une fonction;Funktion hinzufügen;Lägg till funktion;Dodaj element
+Edit image;Bewerk afbeelding;Modifier l'image;Bild bearbeiten;Redigera bild;Edytuj obraz
+Objects attached to;Objecten vastgemaakt aan;Objets attachés à;Objekte, die verbunden sind mit;Objekt som är kopplade till;Obikety dołączone do
+Object name;Objectnaam;Nom de l'objet;Objektname;Objektnamn;Nazwa obiektu
+Hidden object name;Verborgen objectnaam;Nom de l'objet caché;Verborgener Objektname;Dolt objektnamn;Ukryta nazwa obiektu
+Are you sure you want to delete this step?;Weet je zeker dat je deze stap wilt verwijderen?;Êtes-vous sûr de vouloir supprimer cette étape ?;Sind Sie sicher, dass Sie diesen Schritt löschen wollen?;Är du säker på att du vill ta bort det här steget?;Czy na pewno chesz usunąć ten krok?
+Title;Titel;Titre;Titel;Titel;Tytuł
+Yes;Ja;Oui;Ja;Ja;Tak
+No;Nee;Non;Nein;Nej;Nie
+Add step;Stap toevoegen;Ajouter une étape;Schritt hinzufügen;Lägg till ett steg;Dodaj krok
+Step icon;Stap icoon;Icône de l'étape;Schritt-Symbol;Stegikon;Ikona kroku
+Hotspots;Hotspots;Hotspots;Hotspots;Hotspots;Hotspots
+Linked configuration models;Gekoppelde configuratiemodellen;Modèles de configuration liés;Verlinkte Konfigurationsmodelle;Länkade konfigurationsmodeller;Połączone modele konfiguracji
+Remove;Verwijderen;Supprimer;Entfernen;Ta bort;Usuń
+Configuration starting values allow you to override the default values of features in a linked configuration model, based on the value of a feature in the parent configuration.;Met beginwaarden voor configuratie kunt u de standaardwaarden van features in een gekoppeld configuratiemodel overschrijven, op basis van de waarde van een feature in de bovenliggende configuratie.;Les valeurs de départ de la configuration vous permettent de remplacer les valeurs par défaut des fonctionnalités dans un modèle de configuration lié, en fonction de la valeur d'une fonctionnalité dans la configuration parente.;Konfigurationsstartwerte ermöglichen es Ihnen, die Standardwerte von Funktionen in einem verlinkten Konfigurationsmodell zu überschreiben, basierend auf dem Wert einer Funktion in der Hauptkonfiguration.;Med Konfigurationsstartvärden kan du ersätta grundvärdena för funktioner i en länkad konfigurationsmodell, baserat på en funktion i den huvudkonfigurationen.;Początkowe wartości konfiguracji umożliwiają zastąpienie domyślnych wartości obiektów w połączonym modelu konfiguracji na podstawie wartości elementu w konfiguracji nadrzędnej.
+Configuration starting values;Configuratie startwaarden;Valeurs de départ de la configuration;Startwerte der Konfiguration;Startvärden för konfigurationen;Początkowe wartości konfiguracji
+No configuration starting values defined;Geen beginwaarden voor configuratie gedefinieerd;Aucune valeur de départ de configuration définie;Keine Startwerte für die Konfiguration definiert;Inga konfigurationsstartvärden definierade;Nie zdefiniowano żadnych początkowych wartości konfiguracji
+Add starting value;Voeg beginwaarde toe;Ajouter une valeur de départ;Startwert hinzufügen;Lägg till startvärde;Dodaj wartość początkową
+Changes made in the Quotation are overwritten in Order Entry. Do you want to continue?;Wijzigingen in de offerte worden overschreven in Order Entry. Wilt u doorgaan?;Les modifications apportées a les devis sont écrasées dans la saisie de la commande. Voulez-vous continuer ?;Die im Angebot vorgenommenen Änderungen werden in der Auftragseingabe überschrieben. Möchten Sie fortfahren?;Ändringar som görs i offerten överskrivs i orderingången. Vill du fortsätta?;Zmiany dokonane w Ofercie są nadpisywane przy wejściu do Zamówień. Czy chcesz kontynuować?
+Are you sure you want to add your configuration to a quotation?;Weet u zeker dat u uw configuratie aan een offerte wilt toevoegen?;Êtes-vous sûr de vouloir ajouter votre configuration à un devis ?;Sind Sie sicher, dass Sie Ihre Konfiguration zu einem Angebot hinzufügen möchten?;Är du säker på att du vill lägga till din konfiguration i en offert?;Czy na pewno chesz dodać konfigurację do oferty?
+Confirm Action;Bevestig actie;Confirmer l'action;Aktion bestätigen;Bekräfta åtgärd;Potwierdź akcję
+Discount lines;Kortingsregels;Lignes d'escompte;Rabattlinien;Rabatterade rader;Linie rabatu
+From;Vanaf;Depuis;Von;Från;Od
+Download PDF;Download PDF;Télécharger le PDF;PDF herunterladen;Ladda ner PDF;Pobierz plik PDF
+Attach to quotation;Toevoegen aan offerte;Joindre au devis;Zum Angebot anhängen;Bifoga till offert;Dołącz do oferty
+Download DOCX;Download DOCX;Télécharger DOCX;DOCX herunterladen;Ladda ner DOCX;Pobierz plik DOCX
+Generate pdf;PDF genereren;Générer pdf;PDF generieren;Generera pdf;Generuj plik PDF
+Generate docx;DOCX genereren;Générer docx;DOCX generieren;Generera docx;Generuj plik DOCX
+Pending;In afwachting;En attente;In bearbeitung;I väntan på;W trakcie realizacji
+Unanswered mandatories;Onbeantwoorde vereisten;Mandats sans réponse;Unbeantwortete Verpflichtungen;Obesvarade uppdrag;Obowiązkowe zlecenia bez odpowiedzi
+Use existing feature;Gebruik bestaande feature;Utiliser une fonctionnalité existante;Bestehende Funktion verwenden;Använd befintlig funktion;Użyj istniejącego obiektu
+Create new feature;Nieuwe feature aanmaken;Créer une nouvelle fonctionnalité;Neues Funktion erstellen;Skapa en ny funktion;Stwórz nowy obiekt
+Text expression;Tekst expressie;Expression textuelle;Text-Ausdruck;Textuttryck;Wyrażenie tekstowe
+Display text value;Tekstwaarde weergeven;Afficher la valeur du texte;Textwert anzeigen;Visa textvärde;Wyświetlanie wartości tekstowej
+Pre-configuration;Voor-configuratie;Préconfiguration;Vorkonfiguration;Förkonfiguration;Konfiguracja wstępna
+Select feature(s);Selecteer feature(s);Sélectionner une ou plusieurs caractéristiques;Funktion(en) auswählen;Välj funktion(er);Wybierz elememt/y
+Export;Exporteren;Exporter;Exportieren;Exportera;Exportuj
+Apply discount;Korting toepassen;Appliquer une remise;Rabatt anwenden;Tillämpa rabatt;Zastosuj rabat
+Apply on ex. VAT;Toepassen op ex. BTW;Appliquer sur ex. TVA;Anwenden auf ex. MWST.;Tillämpa på ex. MOMS;Zastosuj do ex. VAT
+Discount Amount;Kortingsbedrag;Montant de la remise;Rabatt-Betrag;Rabattbelopp;Kwota rabatu
+Discount Percentage;Kortingspercentage;Pourcentage de la remise;Rabatt-Prozentsatz;Procentuell rabatt;Procent rabatu
+Edit permissions;Bewerk rechten;Modifier les autorisations;Berechtigungen bearbeiten;Redigera behörigheter;Edytuj uprawnienia
+Manage billing;Facturatie beheren;Gérer la facturation;Fakturierung verwalten;Hantera fakturering;Zarządzaj rozliczeniami
+Submit quotation;Offerte indienen;Soumettre un devis;Angebot einreichen;Lämna offert;Prześlij ofertę
+Accept quotation;Offerte accepteren;Accepter les devis;Angebot annehmen;Godkänn offert;Zaakceptuj ofertę
+Verify quotation;Offerte verifiëren;Vérifier les devis;Angebot prüfen;Kontrollera offert;Zweryfikuj ofertę
+Sales Price;Verkoopprijs;Prix de vente;Verkaufspreis;Försäljningspris;Cena sprzedaży
+Allow Elfsquad support access;Toegang verlenen tot Elfsquad support;Autoriser l'accès au support Elfsquad;Elfsquad-Support Zugang gewähren;Tillåt Elfsquad support att få tillgång till;Zezwól na dostęp do pomocy technicznej Elfsquad
+Add new user;Nieuwe gebruiker toevoegen;Ajouter un nouvel utilisateur;Neuen Benutzer hinzufügen;Lägg till en ny användare;Dodaj nowego użytkownika
+Is admin;Is beheerder;Est admin;Ist Administrator;Är administratör;Jest adminem
+Require two factor authentication;Vereis twee-stap authenticatie;Requiert une authentification à deux facteurs;Verlangt Zwei-Faktor-Authentifizierung;Kräver tvåfaktorsautentisering;Wymaga uwierzytelnienia dwuskładnikowego
+Are you sure you want to delete this quotation;Weet u zeker dat u deze offerte wilt verwijderen;Êtes-vous sûr de vouloir supprimer cette devis;Sind Sie sicher, dass Sie dieses Angebot löschen möchten?;Är du säker på att du vill ta bort offerten?;Czy na pewno chcesz usunąć tą ofertę?
+Delete Quotation;Offerte verwijderen;Supprimer le devis;Angebot löschen;Ta bort offert;Usuń ofertę
+Select sub-organization;Selecteer sub-organisatie;Sélectionnez une sous-organisation;Sub-Organisation auswählen;Välj sub-organisation;Wybierz spółkę 
+Default locale;Standaard taal;Localité par défaut;Standard-Lokalisierung;Standardlokal;Domyślne ustawienia regionalne
+Custom new user mail;Aangepaste nieuwe gebruikersmail;Courrier personnalisé pour les nouveaux utilisateurs;Benutzerdefinierte Mail für neue Benutzer;E-post för nya användare;Niestandardowa poczta nowego użytkownika
+Workflow;Werkstroom;Flux de travail;Workflow;Arbetsflöde;Przepływ pracy
+Add new status;Nieuwe status toevoegen;Ajouter un nouveau statut;Neuen Status hinzufügen;Add new status;Dodaj nowy status
+Allowed quotation seller actions;Toegestane offerte verkopersacties;Actions autorisées du vendeur de devis;Erlaubte Verkäuferaktionen für Angebote;Tillåtna åtgärder för offertsäljare;Dozwolone działania dla sprzedawców ofert
+Display Overview button in last step;Toon overzichtknop in laatste stap;Afficher le bouton Aperçu dans la dernière étape;Übersichtsschaltfläche im letzten Schritt anzeigen;Visa översiktsknappen i sista steget;Wyświetl przycisk Podgląd w ostatnik kroku
+Background image which is displayed at the welcome page. This image is displayed when the YouTube url is not set;Achtergrondafbeelding die wordt weergegeven op de welkomstpagina. Deze afbeelding wordt getoond wanneer de YouTube-url niet is ingesteld;Image de fond qui est affichée sur la page d'accueil. Cette image est affichée lorsque l'url de YouTube n'est pas définie.;Hintergrundbild, das auf der Willkommensseite angezeigt wird. Dieses Bild wird angezeigt, wenn die YouTube-Url nicht gesetzt ist.;Bakgrundsbild som visas på välkomstsidan. Bilden visas när YouTube-adressen inte är inställd.;Obraz tła, który jest wyświetlany na stronie powitalnej. Ten obraz jest wyświetlany, gdy adres URL YouTube nie jest ustawiony
+YouTube video which is displayed at the welcome page. Only the video ID should be pasted here, which means that if the url is <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code> the ID is <code>dQw4w9WgXcQ</code>. If no YouTube video is set, the background will be displayed by default.;YouTube-video die wordt weergegeven op de welkomstpagina. Alleen de video-ID moet hier worden ingevoerd, dus als de url <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code> is, is de ID <code>dQw4w9WgXcQ</code>. Als er geen YouTube-video is ingesteld, wordt de achtergrond standaard getoond.;La vidéo YouTube qui est affichée sur la page d'accueil. Seul l'ID de la vidéo doit être collé ici, ce qui signifie que si l'url est <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code> l'ID est <code>dQw4w9WgXcQ</code>. Si aucune vidéo YouTube n'est définie, l'arrière-plan sera affiché par défaut.;Hier bedeutet das, dass wenn die Url lautet: <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code> the ID is <code>dQw4w9WgXcQ</code>. Wenn kein YouTube-Video eingestellt ist, wird standardmäßig der Hintergrund angezeigt.;;Film z YouTube, który jest wyświetlany na stronie powitalnej. W tym miejscu należy wkleić tylko identyfikator wideo, co oznacza, że jeśli adres URL jest <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code>, identyfikator to <code>dQw4w9WgXcQ</code>. Jeśli nie ustawiono żadnego filmu z YouTube, tło będzie wyświetlane domyślnie.
+Enable 3D footprint;3D-voetafdruk inschakelen;Activation de l'empreinte 3D;3D-Fußabdruck aktivieren;Aktivera 3D-avtryck;Włącz ślad 3D
+Enable 3D labels;3D-labels inschakelen;Activer les étiquettes 3D;3D-Beschriftungen aktivieren;Aktivera 3D-etiketter;Włącz etykiety 3D
+Click to create a new quotation condition;Klik om een eigenschap aan te maken;Cliquez pour créer une nouvelle condition de devis;Klicken Sie, um eine neue Angebotskondition zu erstellen;Skapa ett nytt offertvillkor genom att klicka här.;Kliknij, aby utworzyć nowy warunek oferty
+Upvalue;Meerprijs;Valoriser;Aufwertung;Uppvärdera;Zwiększenie wartości
+Link;Link;Lier;Link;Link;Link
+Create quote;Offerte aanmaken;Créer un devis;Angebot erstellen;Skapa offert;Stwórz ofertę
+Search in docs;Zoeken in documentatie;Recherche dans les documents;in Dokumenten suchen;Sök i dokumenten;Wyszkaj w docs
+New quotation created;Nieuwe offerte aangemaakt;Nouveau devis créé;Neues Angebot erstellt ;Ny offert skapad;Nowa oferta stworzona
+Options for 3D Mapping;Opties voor 3D-toewijzing;Options pour la cartographie 3D;Optionen für 3D Mapping;Alternativ för 3D-mappning;Opcje mapowania 3D
+Convert 3D Mapping to Features;Converteer 3D-toewijzing voor Features;Convertir la cartographie 3D en caractéristiques;3D-Mapping in Funktionen konvertieren;Konvertera 3D-mappning till funktioner;Konwertuj mapowanie 3D do elementów
+Remove 3D Mapping from Features;Verwijder 3D-toewijzing van Features;Supprimer le mappage 3D des caractéristiques;3D-Mapping aus Funktionen entfernen;Ta bort 3D-mappning från funktioner;Usuń mapowanie 3D z elementów
+Convert 3D Mapping to Nodes;Converteer 3D-toewijzing voor Nodes;Convertir le mappage 3D en nœuds;3D-Mapping in Nodes konvertieren;Konvertera 3D-mappning till noder;Konwertuj mapowanie 3D do kart
+Remove 3D Mapping from Nodes;Verwijder 3D-toewijzing van Nodes;Supprimer le mappage 3D des nœuds;3D-Mapping aus Nodes entfernen;Ta bort 3D-mappning från noder;Usuń mapowanie 3D z kart
+Total assigned 3D objects to Features:;Totaal toegewezen 3D-objecten aan Features:;Total des objets 3D attribués aux caractéristiques :;Gesamtzahl der den Funktionen zugewiesenen 3D-Objekte:;Totalt tilldelade 3D-objekt till funktioner:;Łączna ilość przypisanych obiektów 3D do elementów:
+Total assigned 3D objects to Nodes:;Totaal toegewezen 3D-objecten aan Nodes:;Total des objets 3D assignés aux nœuds :;Gesamtzahl der den Nodes zugewiesenen 3D-Objekte:;Totalt antal 3D-objekt som fördelats till noder:;Łączna ilość przypisanych obiektów 3D do kart:
+Current:;Huidig:;Actuel :;Aktuell:;Nuvarande:;Aktualny:
+CoC number;KvK-nummer;Numéro de CdC;CoC-Nummer;CoC-nummer;Numer REGON
+Undo your last action by:;Ga terug naar je vorige actie:;Annulez votre dernière action en :;Ihre letzte Aktion rückgängig machen durch:;Ångra din senaste åtgärd genom att:;Cofnij ostatnią czynność, wykonując następujące czynności:
+1. Deselecting the Feature you selected last.;1. Deselecteer de Feature, die als laatst is geselecteerd.;1. Désélectionnant l'élément que vous avez sélectionné en dernier.;1. Aufhebung der Auswahl des zuletzt ausgewählten Funktion;1. Ta bort valet av den funktion som du valde sist.;1. Usuń zaznaczenie ostatnio wybranego elementu
+2. Selecting an alternative to the Feature you selected last.;2. Selecteer een andere alternatief voor het laatste geselecteerde Feature.;2. En sélectionnant une autre fonction que celle que vous avez sélectionnée en dernier.;2. Auswahl einer Alternative zu dem zuletzt ausgewählten Funktion;2. Välja ett alternativ till den funktion du valde sist.;2. Wybierz alternatywny element dla ostatniego wybranego elementu
+This could be caused by a change in the parent configuration.;Dit kan veroorzaakt zijn door een verandering in de bovenliggende configuratie.;Cela peut être dû à une modification de la configuration parentale.;Dies kann durch eine Änderung in der Hauptkonfiguration verursacht werden.;Detta kan orsakas av en ändring i den överordnade konfigurationen.;Może to być spowodowane zmianą konfiguracji nadrzędnej.
+You are pasting a root node. You must choose a relationship type for this node.;Je plakt een root node. Je moet een relatietype kiezen voor deze node.;Vous collez un nœud racine. Vous devez choisir un type de relation pour ce nœud.;Sie fügen einen Root-Knoten ein. Sie müssen einen Beziehungstyp für diesen Knoten auswählen.;Du klistrar in en rotnod. Du måste välja en relationstyp för den här noden.;Wklejasz kartę główną. Należy wybrać typ relacji dla tej karty.
+Paste operation has been cancelled.;Plakken is geannuleerd.;L'opération de collage a été annulée.;Der Einfügevorgang wurde abgebrochen.;Inklistringsoperationen har avbrutits.;Operacja wklejania została anulowana.
+Retrieving Linked Models for Hierarchy...;Ophalen van linked models voor hiërarchie;Récupération des modèles liés pour la hiérarchie...;Abrufen von gekoppelten Modellen für Hierarchien...;Hämta länkade modeller för hierarki...;Pobieranie połączonych modeli dla hierarchii...
+Publishing all linked models?;Alle linked modellen publiceren?;Publier tous les modèles liés ?;Alle verlinkten Modelle veröffentlichen?;Publicera alla länkade modeller?;Publikować wszystkie powiązane modele?
+Publishing all linked models...;Publiceer alle linked modellen...;Publier tous les modèles liés...;Alle verlinkten Modelle veröffentlichen...;Publicera alla länkade modeller...;Publikowanie wszystkich powiąznaych modeli...
+Unit Price;Stukprijs;Prix unitaire;Stückpreis / Einzelpreis;Pris per enhet;Cena jednostkowa
+Unit price;Eenheid prijs;Prix unitaire;Preis pro Einheit;Pris per enhet;Cena jednostkowa
+will publish all linked models that haven't been released yet.;Dit publiceer alle linked modellen, die niet zijn publiek zijn.;publiera tous les modèles liés qui n'ont pas encore été publiés.;wird alle verlinkten Modelle veröffentlichen, die noch nicht freigegeben wurden.;publicerar alla länkade modeller som inte har släppts ännu.;opublikuje wszystkie powiązane modele, które nie zostały jeszcze wypuszczone.
+Are you sure you want to continue?;Weet je zeker dat je verder wilt gaan?;Êtes-vous sûr de vouloir continuer ?;Sind Sie sicher, dass Sie weitermachen wollen?;Är du säker på att du vill fortsätta?;Jesteś pewny/a, że chcesz kontynuować?
+Please wait while your configuration model is being published.;Wacht a.u.b. totdat het configuratie model is gepubliceerd.;Veuillez patienter pendant que votre modèle de configuration est publié.;Bitte warten Sie, während Ihr Konfigurationsmodell veröffentlicht wird.;Vänta medan din konfigurationsmodell publiceras.;Proszę poczekaj na opublikowanie modelu konfiguracji.
+Publishing Linked configuration models;Publiceer linked configuratie modellen;Publication de modèles de configuration liés;Verlinkte Konfigurationsmodelle publizieren;Publicera länkade konfigurationsmodeller;Publikowanie powiąznaych modeli konfiguracji
+Your current configuration model contains linked models.;Het configuratie model bevat linked modellen;Votre modèle de configuration actuel contient des modèles liés.;Ihr aktuelles Konfigurationsmodell enthält verlinkte Modelle.;Din nuvarande konfigurationsmodell innehåller länkade modeller.;Bieżący model konfiguracji zawiera modele połączone.
+If a linked model is never been published as production, it will get errors in the order entry or showroom.;Als een linked model nog nooit is gepubliceerd in productie, dan zie je errormeldingen in de Order Entry of showroom.;Si un modèle lié n'a jamais été publié en tant que production, des erreurs apparaîtront dans l'entrée de commande ou le showroom.;Wenn ein verlinktes Modell noch nie als Produktion veröffentlicht wurde, wird es in der Auftragserfassung oder im Showroom fehlerhaft angezeigt.;Om en länkad modell aldrig har publicerats som produktion kommer den att få fel i orderingången eller showroomet.;Jeśli powiązany model nigdy nie zostanie opublikowany jako produkcja, będzie on zawierał błędy we wprowadzeniu zamówienia lub showroom.
+Please check if all linked models are published.;Bekijk a.u.b. of alle linked modellen zijn gepubliceerd in productie.;Veuillez vérifier si tous les modèles liés sont publiés.;Bitte prüfen Sie, ob alle verlinkten Modelle publiziert sind.;Kontrollera om alla länkade modeller är publicerade.;Proszę sprawdź, czy wszystkie powiązane modele są opublikowane.
+Linked Model hierarchy of;Linked model hiërarchie van;Hiérarchie des modèles liés;Verlinkte Modellhierarchie von;Kopplad modellhierarki av;Połączona hierarchia modeli
+Last Published;Gepubliceerd op;Dernière publication;Zuletzt publiziert;Senast publicerad;Ostatnio opublikowane
+Never published;Niet gepubliceerd;Jamais publié;Nie publiziert;Aldrig publicerad;Nigdy niepublikowane
+This linked model doesn't have any published versions in Production and it will cause errors in the order entry or showroom.;Dit linked model heeft geen publicaties in Productie, dit zal voor errormeldingen zorgen in de order entry of showroom.;Ce modèle lié n'a pas de version publiée en Production et il provoquera des erreurs dans l'entrée des commandes ou le showroom.;Dieses verlinkte Modell hat keine publizierten Versionen in der Produktion und führt zu Fehlern in der Auftragseingabe oder im Showroom.;Den här länkade modellen har inga publicerade versioner i produktion och det kommer att uppstå fel i orderingången eller showroomet.;Ten powiązany model nie ma żadnych opublikowanych wersji w Produkcji i spowoduje błędy we wprowadzaniu zamówienia lub showroom.
+This linked model does have published versions in Production, but the latest version is not in Production.;Dit linked model heeft publicaties in Productie, maar de laatste versie is in Preview.;Ce modèle lié a des versions publiées en production, mais la dernière version n'est pas en production.;Dieses verlinkte Modell hat zwar publizierte Versionen in der Produktion, aber die neueste Version ist nicht in der Produktion.;Den här länkade modellen har publicerade versioner i produktionen, men den senaste versionen finns inte i produktionen.;Ten połączony model ma opublikowane wersje w Produkcja, ale najnowsza wersja nie znajduje się w Produkcji.
+This linked model does have published versions in Production and the latest version is in Production.;Dit linked model heeft publicaties in Productie en de laatste is ook in Productie.;Ce modèle lié a des versions publiées en production et la dernière version est en production.;Dieses verlinkte Modell hat bereits publizierte Versionen in der Produktion und die neueste Version ist in der Produktion.;Den här länkade modellen har publicerade versioner i produktionen och den senaste versionen finns i produktionen.;Ten połączony model ma opublikowane wersje w Produkcji, a najnowsza wersja jest w Produkcji.
+Combine into quotation group;Combineer in quotation groep;;;;
+This combines all instances of this linked model into the parent quotation group.;Dit combineert alle instanties van dit linked model in the parent quotation group.;;;;
+The multiplier can not be used in combination with the combine into quotation group option.;De multiplier kan niet i.c.m. de combineer in quotation group optie.;;;;
+The combine into quotation group option can not be used in combination with the multiplier option.;De combineer in quotation groep optie kan niet i.c.m. de multiplier gebruikt worden.;;;;
+All of the steps are hidden in the ;Alle stappen zijn verborgen in de ;;;;
+the;de;;;;
+Click or drag a 3D model file to this area to upload; Klik of sleep hier een 3D model voor het uploaden;;;;
+Maximum file size:;Maximale bestandsgrootte:;;;;
+Supported file extensions:;Ondersteunende file extensies:;;;;
+Manage table preferences;Beheer tabeleigenschappen;;;;
+Enable overview page;Overzichtspagina inschakelen;;;;
+Adds an overview page which users will see before going to the checkout page.;Voegt een overzichtspagina toe die gebruikers te zien krijgen voordat ze naar de afrekenpagina gaan.;;;;
+Input field;Invoerveld;;;;
+Add or remove columns for the current table. To change the column order, drag and drop a field. Column names can also be customized.;Voeg kolommen toe of verwijder ze voor de huidige tabel. Sleep een veld om de kolomvolgorde te wijzigen. Kolomnamen kunnen ook worden aangepast.;;;;
+Column options;Kolomopties;;;;
+Enter the name of this preference preset. This name will be used when using multiple preference presets on a single table.;Voer de naam van deze voorkeursvoorinstelling in. Deze naam wordt gebruikt wanneer u meerdere voorkeursvoorinstellingen op één tabel gebruikt.;;;;
+Preference name;Naam van voorkeur;;;;
+Learn more about;Leer meer over;;;;
+Learn more about the;Leer meer over de;;;;
+Configuration model circular dependencies;Configuratie model cirkel redeneringen;;;;
+Visualize;Visualiseren;;;;
+Check Dependencies;Check afhankelijkheden;;;;
+Enter a name;Voer een naam in;;;;
+Enter a code;Voer een code in;;;;
+Reference used by third-party integrations;Referentie gebruikt door derde partij integraties;;;;
+Descriptions;Beschrijvingen;;;;
+HTML Formatting;HTML opmaak;;;;
+External name;Externe naam;;;;
+Extended descriptions;Uitgebreide beschrijvingen;;;;
+Explanation;Verklaring;;;;
+Text for exporting;Tekst voor exporteren;;;;
+Upload an image of yourself, or change the e-mail adres which is used to login.;Upload een afbeelding van jezelf, of verander het e-mail adres dat wordt gebruikt om in te loggen.;;;;
+Change the password that is used to login into your account.;Verander het wachtwoord dat wordt gebruikt om in te loggen op je account.;;;;
+Change;Verander;;;;
+Add an extra layer of security to your account.;Voeg een extra laag beveiliging toe aan je account.;;;;
+Enable two factor authentication;Schakel tweestapsverificatie in;;;;
+Disable two factor authentication;Schakel tweestapsverificatie uit;;;;
+Disable SSO;Schakel SSO uit;;;;
+Enable SSO;Schakel SSO in;;;;
+The following permissions have been granted to your account:;De volgende rechten zijn toegekend aan je account:;;;;
+Enter a reference;Voer een referentie in;;;;
+Past logins;Vorige logins;;;;
+You have logged into your account from the following devices:;Je hebt ingelogd op je account vanaf de volgende apparaten:;;;;
+Timestamp;Tijd;;;;
+Delete account;Verwijder account;;;;
+This will delete your user account. Note that once your account is deleted, it cannot be restored.;Dit verwijdert je gebruikersaccount. Let op: zodra je account is verwijderd, kan het niet worden hersteld.;;;;
+Delete your account;Verwijder je account;;;;
+Enter tags;Voer tags in;;;;
+This option disallows a user to apply a discount on a quotation line for this feature.;Deze optie zorgt er voor dat een gebruiker geen korting toe kan passen op een offerte regel voor deze feature.;;;;
+Warning;Waarschuwing;;;;
+Circular dependencies could take a minute to find, do you want continue?;Cirkel redeneringen vinden kan een minuut duren, wilt u doorgaan?;;;;
+Continue;Doorgaan;;;;
+Circular Dependency result;Cirkel redenering resultaten;;;;
+No Circular Dependencies found in the configuration model.;Geen cirkel redeneringen kunnen worden gevonden in het configuratie model.;;;;
+Find circular dependencies error;Vind cirkel redeneringen foutmelding;;;;
+Something went wrong while trying to find circular dependencies. Please try again later or contact support if it keeps occuring.;Er ging iets mis tijdens het vinden van cirkelredeneringen. Probeer het later opnieuw of contacteer support als het probleem zich blijft voordoen.;;;;
+Mobile phone number;Mobiel telefoonnummer;Numéro de téléphone mobile;Nummer des Mobiltelefons;Mobiltelefonnummer;Numer telefonu komórkowego
+Street name;Straatnaam;Nom de rue;Straßenname;Gatunamn;Nazwa ulicy
+
