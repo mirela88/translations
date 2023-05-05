@@ -22,7 +22,7 @@ Add column;Kolom toevoegen;Ajouter une colonne;Kolumne hinzufügen;Lägg till ko
 Use this to permanently remove this preference preset.;Gebruik dit om deze voorkeursinstelling permanent te verwijderen.;Utilisez cette option pour supprimer définitivement cette préférence prédéfinie.;Verwenden Sie dies, um diese bevorzugte Einstellung dauerhaft zu löschen.;Använd den här funktionen för att permanent ta bort den här inställningen.;Użyj tego, aby trwale usunąć to ustawienie wstępne preferencji.
 Delete preference;Voorkeur verwijderen;Supprimer la préférence;Bevorzugung löschen;Ta bort inställningar;Usuń preferencję
 Add filter;Filter toevoegen;Ajouter un filtre;Filter hinzufügen;Lägg till filter;Dodaj filtr
-false;onwaar;FAUX;Falsch;FELAKTIGT;Błąd
+false;onwaar;FAUX;Falsch;FELAKTIGT;Błąd 
 true;waar;VRAI;Richtig;SANT;Prawda
 VAT number;BTW nummer;Numéro de TVA;Umsatzsteuer Identifikationsnummer (USt-ID);Momsnummer;Numer VAT
 Configuration model is locked;Configuratie model is op slot;Le modèle de configuration est verrouillé;Konfigurationsmodell ist gesperrt;Konfigurationsmodellen är låst;Konfiguracja modelu jest zablokowana
