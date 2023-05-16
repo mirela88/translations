@@ -143,3 +143,5 @@ Price;Prijs;;;;
 Image;Afbeelding;;;;
 ADD;TOEVOEGEN;AJOUTER;HINZUFÜGEN;;
 REMOVE;VERWIJDEREN;ÉLIMINER;LÖSCHEN;;
+This configuration is not possible. Your last change could not be saved.;Deze configuratie is niet mogelijk. Je laatste wijziging kon niet worden opgeslagen.;Cette configuration n'est pas possible. Votre dernière modification n'a pas pu être enregistrée.;Diese Konfiguration ist nicht möglich. Ihre letzte Änderung konnte nicht gespeichert werden.;;
+An error occurred;Er is een fout opgetreden;Une erreur s'est produite;Ein Fehler ist aufgetreten;;
